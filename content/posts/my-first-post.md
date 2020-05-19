@@ -1,7 +1,6 @@
 ---
 title: My First Post
 date: 2020-05-19T20:07:27.000+00:00
-draft: true
 
 ---
 Steps to allow :
