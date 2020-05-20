@@ -61,7 +61,7 @@ preloader = true
 # search
 search = true
 # about author
-author = "Themefisher"
+author = "heri"
 author_image = "images/banner-img.png"
 bio = "Built on the banks of Rivière Rouge, where mountains and majestic pine forests meet, the log cabin welcomes you year round in the tranquility and beauty of the great Canadian Outdoors."
 # Contact info
@@ -84,16 +84,12 @@ access_token = "24615923.b961e43.73ec724c7f9447988e3ee44f241c1058"
 # social site
 [[params.social]]
 icon = "ti-facebook"
-URL = "#"
+URL = "https://www.facebook.com/heri.rakotomalala/"
 
 [[params.social]]
 icon = "ti-twitter-alt"
 URL = "https://twitter.com/heri"
 
 [[params.social]]
-icon = "ti-linkedin"
-URL = "#"
-
-[[params.social]]
 icon = "ti-github"
-URL = "#"
+URL = "https://github.com/heri"
