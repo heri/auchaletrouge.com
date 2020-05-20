@@ -1,7 +1,7 @@
 # default config
-baseURL = "https://examplesite.org"
+baseURL = "https://abchalet.com"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "ABChalet"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -48,19 +48,14 @@ name = "About"
 URL = "about"
 weight = 2
 
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 3
-
-# deult parameter
+# default parameter
 [params]
 logo = "images/logo.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "chalet, cabin, laurentians, canadian, kayak, airbnb"
 # Preloader
 preloader = true
 # search
@@ -68,23 +63,23 @@ search = true
 # about author
 author = "Themefisher"
 author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+bio = "Built on the banks of Rivière Rouge, where mountains and majestic pine forests meet, the log cabin welcomes you year round in the tranquility and beauty of the great Canadian Outdoors."
 # Contact info
-mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
+mobile = "+514 800 1000"
+email = "bonheur@abchalet.com"
+address = "435 Ch des Dunes Riviere Rouge"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2020 ABChalet.com"
 
 # Instagram feed
 [params.instafeed]
 enable = true
-user_id = "4044026246"
-access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+user_id = "24615923"
+access_token = "24615923.b961e43.73ec724c7f9447988e3ee44f241c1058"
 
 # social site
 [[params.social]]
@@ -93,7 +88,7 @@ URL = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/heri"
 
 [[params.social]]
 icon = "ti-linkedin"
