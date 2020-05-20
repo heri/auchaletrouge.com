@@ -50,7 +50,7 @@ weight = 2
 
 # default parameter
 [params]
-logo = "/static/uploads/logo.png"
+logo = "https://abchalet.com/static/uploads/logo.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"

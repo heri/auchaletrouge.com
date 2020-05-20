@@ -3,7 +3,7 @@ title: Désinfection covid-19
 date: 2019-05-17T20:07:27.000+00:00
 
 ---
-![désinfection total](https//abchalet.com/static/uploads/clay-banks-cezmop5ftv4-unsplash.jpg "désinfection total")
+![désinfection total](https://abchalet.com/static/uploads/clay-banks-cezmop5ftv4-unsplash.jpg "désinfection total")
 
 Notre personnel a reçu des consignes strictes de nouvelles méthodes de travail afin de maximiser la sécurité. Nos mesures d’hygiène sont extrêmement renforcées, par exemple par le nettoyage accru de surfaces et objets fréquemment touchés, tels que:
 

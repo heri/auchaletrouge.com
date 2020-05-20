@@ -3,7 +3,7 @@ title: Guide d'Activités Rivière Rouge
 date: 2019-05-18T20:07:27.000+00:00
 
 ---
-![canot kayak](https//abchalet.com/static/uploads/a10.jpg "canot kayak")
+![canot kayak](https://abchalet.com/static/uploads/a10.jpg "canot kayak")
 
 Eté:
 
@@ -42,7 +42,7 @@ Eté:
 * [Musée ferroviaire](https://www.quebecoriginal.com/en/listing/things-to-do/heritage-sites-and-attractions/museums-and-historic-sites/musee-ferroviaire-gare-de-labelle-385705594) gare de Labelle 
 * [Autres randonées](https://www.riviere-rouge.ca/randonnee-pedestre) 
 
-![dog sledding](https//abchalet.com/static/uploads/expedition-wolf.jpg "dog sledding")
+![dog sledding](https://abchalet.com/static/uploads/expedition-wolf.jpg "dog sledding")
 
 Hiver:
 
