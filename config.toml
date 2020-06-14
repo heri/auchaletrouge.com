@@ -5,6 +5,7 @@ title = "ABChalet"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
+publishDir = "."
 
 # output
 [outputs]
@@ -17,6 +18,8 @@ link = "plugins/bootstrap/bootstrap.min.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "css/customization.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -42,30 +45,24 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 
-# navigation
-[[menu.main]]
-name = "About"
-URL = "about"
-weight = 2
-
 # default parameter
 [params]
-logo = "https://abchalet.com/static/uploads/logo.png"
+logo = "/images/logo_250.png"
 home = "Home"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
 description = "chalet, cabin, laurentians, canadian, kayak, airbnb"
 # Preloader
-preloader = true
+preloader = false
 # search
-search = true
+search = false
 # about author
-author = "heri"
-author_image = "images/banner-img.png"
+author = "Au Bonheur Chalet"
+author_image = "images/author.jpg"
 bio = "Built on the banks of Rivière Rouge, where mountains and majestic pine forests meet, the log cabin welcomes you year round in the tranquility and beauty of the great Canadian Outdoors."
 # Contact info
-mobile = "+514 800 1000"
+mobile = "+514 804 8608"
 email = "bonheur@abchalet.com"
 address = "435 Ch des Dunes Riviere Rouge"
 # Contact Form Action
