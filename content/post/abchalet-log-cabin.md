@@ -5,8 +5,6 @@ date: 2019-05-19T20:07:27.000+00:00
 ---
 ![au bonheur log cabin](https://abchalet.com/static/uploads/a3.jpg "au bonheur log cabin")
 
-**note : not for short term rental !**
-
 Leave it all behind and unwind at this waterfront luxury log cabin.
 
 Built on the banks of Rivière Rouge, where mountains and majestic pine forests meet, the log cabin welcomes you year round in the tranquility and beauty of the great Canadian Outdoors. Get on a kayak for a fishing adventure. Enjoy the pristine sand beaches.
@@ -29,5 +27,3 @@ You will be provided a guide upon your arrival. We also offer:
 * Strict adherence to Airbnb guidelines to prevent spread of COVID
 * Stand alone authentic property, not part of tourism development
 * Wifi, Smart TV with Netflix
-
-**note : not for short term rental !**

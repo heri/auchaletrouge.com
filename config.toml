@@ -81,7 +81,7 @@ access_token = "24615923.b961e43.73ec724c7f9447988e3ee44f241c1058"
 # social site
 [[params.social]]
 icon = "ti-facebook"
-URL = "https://www.facebook.com/heri.rakotomalala/"
+URL = "https://www.facebook.com/Au-Bonheur-Chalet-113033587116789"
 
 [[params.social]]
 icon = "ti-twitter-alt"
