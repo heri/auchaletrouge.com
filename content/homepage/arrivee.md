@@ -1,0 +1,67 @@
+---
+title: "Arrivée"
+weight: 2
+header_menu: true
+---
+
+## Se préparer
+
+En été, outre vos vetements, apportez nécessaire de plage, gougounes, et produit anti-moustique. En hiver, il peut faire entre -30 et 5C, donc s'habiller en conséquence. Au printemps et automne, prenez un chandail et/ou coupe-vent. En toute saison, nous recommendons aussi d'apportez une serviette supplémentaire, vos produits d'hygiène, du bois d'allumage. 
+
+Nous fournissons du thé, sel sucre et épices ainsi que tous les équipements de cuisine. N'oubliez pas les ingrédients!
+
+Rivière-Rouge a un controle strict sur les poubelles, donc emportez seulement le minimum. Pas d'emballages extra, ou du jetable svp
+
+## S'y rendre
+
+L'adresse du chalet est:
+
+<div id="template-address"></div>
+
+Vous n'avez pas besoin d'un 4x4 ou de véhicule tout terrain. Cependant en hiver, soyez sûr d'avoir des pneus neige.
+
+La cour a 6 places de stationnement. Il peut avoir moins d'espace à cause des tempêtes de neige. Cependant, nous avons une compagnie de déneigement et il y a toujours un minimum de 2 espaces de stationnement.
+
+
+## Code de la porte
+
+Le chalet est équippé d'une serrure électronique. Vous pouvez arriver ou partir à n'importe quelle heure  sans devoir attendre quelqu'un pour des clés.
+
+Votre code est actif à part de 4pm (16h00).
+
+Si vous voulez entrez avant, nous ferons de notre mieux mais nous ne pouvons pas faire de promesses pour vous garantir un accès avant.
+
+Avec votre code personnalisé:
+
+- Appuyer sur Yale
+- Taper votre code
+- Appuyer sur ✔︎
+
+C'est ouvert! 
+
+Vous pouvez manuellement fermer la serrure de l'intérieur. De l'extérieur, vous pouvez fermer la serrure en tapant sur le bouton "Yale"
+
+Important: Si vous n'arrivez pas à déverrouiller, c'est la plupart du temps parce que vous n'avez pas tapé sur le bouton "Yale" avant de rentrer leur code
+
+<div id="template-guestname-container"></div>
+
+<script id="template-guestname" type="text/template">
+    {{guestname}}
+</script>
+
+<script id="template-guestcode" type="text/template">
+    {{guestcode}}
+</script>
+
+<script id="template-checkin" type="text/template">
+    {{checkin}}
+</script>
+
+<script id="template-checkout" type="text/template">
+    {{checkout}}
+</script>
+
+<script id="template-address" type="text/template">
+    {{address}}
+</script>
+

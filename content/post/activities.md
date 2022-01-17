@@ -17,7 +17,7 @@ Eté:
 * [Ferme animaux Alpaga](https://alpagahl.ca/)  ⭐️⭐️⭐️⭐️⭐️
 * [Pourvoirie Club Rossignol](https://g.page/ClubRossignol?share) (equitation)  ⭐️⭐️⭐️⭐️⭐️
 * [Visite du Vignoble Spirit Lénoard]( https://www.quebecoriginal.com/en/listing/things-to-do/heritage-sites-and-attractions/industrial-tours/vignoble-spirit-leonard-396641966 ) ⭐️⭐️⭐️⭐️⭐️
-* [Randonnée déli-Champs](http://www.champignonssauvages.com/) (Cueillette de champignons sauvages en randonée) 
+* [Randonnée déli-Champs](https://www.champignonssauvages.com/) (Cueillette de champignons sauvages en randonée) 
 * [Conduisez un Quad tout terrain](https://www.riviere-rouge.ca/motoneige-et-quad) 
 * [Peche aventure](https://www.sepaq.com/rf/rom/ ), chasse à l’ours noir, chasse au petit gibier, chasse à l’orignal, chasse au cerf de virginie  ⭐️⭐️⭐️⭐️
 * [Cowboy paintall]( https://www.cowboypaintball.ca/)  ⭐️⭐️⭐️⭐️
@@ -25,7 +25,7 @@ Eté:
 * [Petit train du nord ](https://goo.gl/maps/1NZmS48WV1yfrdf48)
 * [Golf Nominigue](https://goo.gl/maps/dpfRc7zvRRLFMoTP6)  ⭐️⭐️⭐️⭐️
 * Parc écologique [Le renouveau Senecal](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/regional-parks/parc-ecologique-le-renouveau-rosaire-senecal-368968107)  ⭐️⭐️⭐️⭐️
-* [Aero Loisirs](http://www.aeroloisirs.com/fr/accueil/index.php ) : tour d’avion ⭐️⭐️⭐️⭐️⭐️
+* [Aero Loisirs](https://www.aeroloisirs.com/fr/accueil/index.php ) : tour d’avion ⭐️⭐️⭐️⭐️⭐️
 * [Plage municipal](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/beaches/plage-municipale-du-grand-lac-nominingue-7852004)  ⭐️⭐️⭐️⭐️
 * [Plage municipal Michel Jr Levesqie]( https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/beaches/plage-michel-jr-levesque-7853362)
 * [ZEC lac du maison de pierre ](https://zecmaisondepierre.reseauzec.com/)  ⭐️⭐️⭐️⭐️
@@ -36,7 +36,7 @@ Eté:
 * [Mont-Tremblant International Airport](https://goo.gl/maps/8ZSYh8fZrUGwohQw7) 
 * Activités Mont-Tremblant
 * Bmx [https://www.riviere-rouge.ca/piste-bmx](https://www.riviere-rouge.ca/piste-bmx "https://www.riviere-rouge.ca/piste-bmx")
-* [Ranch du cheval d’or](http://www.ranchduchevaldor.com/) 
+* [Ranch du cheval d’or](https://www.ranchduchevaldor.com/) 
 * [Centre d’exposition de la gare de rivière rouge](https://www.quebecoriginal.com/en/listing/things-to-do/heritage-sites-and-attractions/art-galleries/centre-dexposition-de-la-gare-de-riviere-rouge-11369003) 
 * [Parc municipal](https://goo.gl/maps/kksiMw4BM6cEFcVX6) avec tennis, foot, parc pour enfants : 
 * Volleyball de plage

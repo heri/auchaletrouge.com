@@ -2,7 +2,7 @@
 baseURL = "https://abchalet.com"
 languageCode = "en-us"
 title = "ABChalet"
-theme = "parsa-hugo"
+theme = "hugo-scroll"
 summaryLength = "10"
 paginate = 6
 publishDir = "."
