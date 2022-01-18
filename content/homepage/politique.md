@@ -4,7 +4,7 @@ weight: 7
 header_menu: true
 ---
 
-## Attentes
+## Satisfaction
 
 Si quelque chose n'est pas à votre goût ou si un problème survient lors de votre séjour, veuillez nous informer rapidement pour trouver une soution. Nous demandons aussi que vous nous informiez de tout accident ou dommages pour que nous nous assurions que tout soit en bon état.
 

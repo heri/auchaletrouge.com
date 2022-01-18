@@ -14,3 +14,4 @@ for (let k of pageParameters.keys()) {
     var content = templateHtml.replace(`{{${k}}}`, pageParameters.get(k))
     document.getElementById(`template-${k}-container`).innerHTML = content;
 }
+

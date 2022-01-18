@@ -7,6 +7,7 @@ header_menu: true
 ## Equipement
 
 Nous fournissons:
+
 * chambres: toute la literie
 * à l'entrée : trousse de premier secours, fer à repasser, balayeuse, 
 * salon : extincteur de feu, guestbook
@@ -15,10 +16,9 @@ Nous fournissons:
 * cuisine: sopalin, sous l'évier: 
 
 Pour la cuisine, nous fournissons:
-* sopalin
 * dans les armoires: sel, sucre et épices, casseroles et marmites, verres, tasses, plats et ustensiles de cuisine
-* set de fondue
-* toaster, machine à café, bouillore
+* sopalin et torchons de cuisine,
+* toaster, machine à café, bouillore, set de fondue, cuiseur à riz,
 * sous l'évier: sacs pour ordure, recyclage, compost, pastilles lave-vaisselle
 
 Si vous avez besoin de plus, vous pouvez facilement les remplacer en allant à un des épiceries listées plus bas
@@ -27,13 +27,13 @@ Si vous avez besoin de plus, vous pouvez facilement les remplacer en allant à u
 
 Network : abchalet
 
-Mot de passe: 
+Mot de passe: <div id="template-guestcode">Faites une réservation pour voir votre le code WiFi</div>
 
 ## Chauffage et AC
 
 Vous pouvez chauffer avec les plinthes, la thermopompe dans le salon, ou bien avec le poele. S'il fait plus de -25C, la thermopompe est le moyen de chauffage le plus efficace et le plus comfortable. 
 
-S'il fait trop chaud, la thermopompe peut aussi diminuer l'humidité et la température.
+S'il fait trop chaud, la thermopompe peut aussi réguler l'humidité et la température.
 
 Veuillez fermer porte et fenetres si vous utilisez le chauffage et/ou AC. Une alarme auditif sera émis régulièrement sinon. Pensons à l'environnement!
 
@@ -41,7 +41,7 @@ Veuillez fermer porte et fenetres si vous utilisez le chauffage et/ou AC. Une al
 
 Les pastilles sont placés sous l'évier. Mettre une pastille dans la lave-vaisselle, ajuster la configuration selon votre préférence, fermez la porte, et appuyez sur "Start"
 
-Vous devez entendre le cycle démarrez. Sinon cela veut dire que la machine est en mode attente. Recommencez!
+Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
 
 ## Eau
 
@@ -49,7 +49,9 @@ Le chalet est alimenté par un puits de surface tout proche de la Rivière. L'ea
 
 # Foyer
 
-Comment faire un feu
+Un feu nous rappelle les temps où nous n'étions pas dépendant de la technologie. Un bon moyen aussi de rapprocher petits et grands.
+
+Avant de partir un feu, soyez sur d'avoir du bois sec et du bon bois d'allumage. Mettez d'abord papiers et bois d'allumage, en faisant attention qu'il ait une aération d'air suffisant. Quand le feu prend, vous pouvez ajouter petit à petit du bois plus gros. Youtube a aussi [des guides intéressant](https://www.youtube.com/watch?v=rs8Bwk8vcqs)
 
 # Technologie
 
@@ -78,6 +80,7 @@ On a une petite sélection de livres qui invitent à la découverte. Si vous en 
 On a aussi des DVDs qui compte parmi nos films favoris, ainsi que des jeux pour petits et grands.
 
 ## BBQ
+
 Your home is equipped with a BBQ for your use.  
 
 If you wish to use the BBQ, please be mindful of these guidelines:
@@ -93,8 +96,6 @@ Happy cooking!
 ## Spa
 
 ## Kayaks
-
-![cabin interior](images/feu.jpg)
 
 ## Sports gear
 
