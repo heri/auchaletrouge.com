@@ -16,19 +16,17 @@ How clean are you expected to leave the home? A good rule of thumb is that if yo
 
 While you are not expected to do a thorough cleaning, please be reasonable. Rinse your dishes and cookware and place in the dishwasher. Do not leave filthy dishes or garbage strewn about. Clean up after major messes, spills and accidents or bring them to our attention.
 
-
 Checklist:
 
 * Sign the guest book!
 * Close and lock all windows
 * Ensure that all faucets are off
-* In winter, turn thermostat down to about 65 degrees
+* In winter, turn thermostat down to about 15 degrees C
 * Turn off all lights
-* Ensure that all appliances are turned off
-* Triple check the house to ensure you have not left anything behind, including phone chargers, laptop cords, jewelry, passports, wallets, clothing, and toys
-* Pull front door shut behind you and make sure it locks by touching the word Schlage
-
-If you have leftover food or grocery items, you may leave them behind for the housekeeping crew to keep, discard, or in the case of unopened non-perishables, leave for subsequent guests.
+* Ensure that the TV, heatpump, fire stove, BBQ are turned off
+* Make sure the dishwasher cycle is started. Otherwise the cleaning staff has to hand wash the dishes
+* Triple check the house to ensure you have not left anything behind, including phone chargers, laptop cords, jewelry, passports, wallets, clothing, toys and any leftover food or grocery items
+* Pull front door shut behind you and make sure it locks by touching the word Yale
 
 ## Lost and Found
 Please triple check the home before departing to ensure you have not left anything behind. Common items left behind include phone chargers, computer cords, passports/licenses, clothes, electronics, eyeglasses, toiletries/makeup, documents, and toys.
@@ -42,6 +40,3 @@ Be certain to include:
 Item description
 Where you think you may have left the item
 The name on the reservation
-The name of the house you stayed at
-
-

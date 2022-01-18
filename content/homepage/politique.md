@@ -56,9 +56,8 @@ Comme bien d'autres villes dans les Laurentides, Rivière Rouge a un controle st
 N'essayez pas de contourner les règles, parce que nous risquons des amendes. Si vous avez un gros doute, vous pouvez nous envoyer un texto avec image pour que nous verifions votre tri avant de le mettre aux poubelles. S'il y a une amende, ce sera soustrait de votre depot de securité même si la collecte est fait après votre départ!
 
 Nous faisons très attention qu'il reste toujours de la place dans le bac de recyclage, compost et ordures. Si vous avez trop d'ordures, vous avez deux choix:
+
 * vous laissez le surplus qui ne rentre pas à la porte et vous nous enverrez un texto. Un $60+tx de frais sera facturé
 * vous emportez le surplus avec vous
 
-La municipalité fait la collecte des ordure seulement une fois par mois, et les autres collectes 2 fois par mois. Donc c'est extremmement important de faire attention aux poubelles.
-
--> Lien Riviere Rouge
+La municipalité fait la [collecte des ordures](https://www.riviere-rouge.ca/calendrier-des-collectes) seulement une fois par mois, et les autres collectes 2 fois par mois. Donc c'est extremmement important de faire attention aux poubelles.

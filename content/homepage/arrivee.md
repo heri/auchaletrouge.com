@@ -50,20 +50,3 @@ Important: Si vous n'arrivez pas à déverrouiller, c'est la plupart du temps pa
 <script id="template-guestname" type="text/template">
     {{guestname}}
 </script>
-
-<script id="template-guestcode" type="text/template">
-    {{guestcode}}
-</script>
-
-<script id="template-checkin" type="text/template">
-    {{checkin}}
-</script>
-
-<script id="template-checkout" type="text/template">
-    {{checkout}}
-</script>
-
-<script id="template-address" type="text/template">
-    {{address}}
-</script>
-
