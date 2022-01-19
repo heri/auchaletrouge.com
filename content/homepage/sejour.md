@@ -88,7 +88,7 @@ Happy cooking!
 ## Guide Eté
 
 * Sur place : baignade, accès à l’eau privé, canoë, kayak, volleyball de plage, badminton, spa, observation d’oiseaux,
-* Canoe kayak: [Descente de la rouge]( https://goo.gl/maps/6SFppcyR4kQqNB2R9) [https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/sports-equipment-rental-companies/descente-de-la-rouge-500006203](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/sports-equipment-rental-companies/descente-de-la-rouge-500006203 "https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/sports-equipment-rental-companies/descente-de-la-rouge-500006203")  ⭐️⭐️⭐️⭐️⭐️
+* Canoe kayak: [Descente de la rouge](https://goo.gl/maps/6SFppcyR4kQqNB2R9) ⭐️⭐️⭐️⭐️⭐️
 * [Spa Le geyser](https://www.quebecoriginal.com/en/listing/things-to-do/entertainment/spas/spa-le-geyser-373176494)    ⭐️⭐️⭐️⭐️⭐️
 * [Ferme animaux Alpaga](https://alpagahl.ca/)  ⭐️⭐️⭐️⭐️⭐️
 * [Pourvoirie Club Rossignol](https://g.page/ClubRossignol?share) (equitation)  ⭐️⭐️⭐️⭐️⭐️
@@ -108,14 +108,14 @@ Happy cooking!
 ## Guide Hiver
 
 * Traineau a chien, canoe camping: [Aventure quatre saisons](https://goo.gl/maps/ANHJDqDzy3Mr7PS27)  ⭐️⭐️⭐️⭐️⭐️
-* [Aventures Skidoo location](https://www.cana-dooaventures.com/)  ⭐️⭐️⭐️⭐️⭐️ Skidoo https://www.riviere-rouge.ca/motoneige-et-quad
+* [Aventures Skidoo location](https://www.cana-dooaventures.com/)  ⭐️⭐️⭐️⭐️⭐️
 * [Expedition wolf](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/outdoor-and-adventure/expedition-wolf-10483573)   ⭐️⭐️⭐️⭐️⭐️
 * [Club de ski des six cantons](https://goo.gl/maps/8mPxwZ5siEuBU7sx5): raquette, cross-country ski  ⭐️⭐️⭐️⭐️⭐️
 * [Ski hors piste rouge manawain](https://goo.gl/maps/6TatHsVxBPuqnJx29)  ⭐️⭐️⭐️⭐️
 * [Ice fishing Parc regional Kamiaka](https://goo.gl/maps/VHP2Jy3GTdNto4Gq6)  ⭐️⭐️⭐️⭐️
-* [Expedition Hautes Laurentides](https://goo.gl/maps/6Y2egLSmHN9zdzDR7), Traineau a chien   https://www.sleddogsquebec.com/ ⭐️⭐️⭐️⭐️ https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/cross-country-ski-centres/club-les-six-cantons-5910712
+* [Expedition Hautes Laurentides](https://goo.gl/maps/6Y2egLSmHN9zdzDR7),
 * [Nordic skiing, traineau, raquettes ](https://reservoirkiamika.org/)
-* [Patinoire exterieures](https://www.riviere-rouge.ca/patinoires-exterieures)
+* [Patinoire exterieures, Rivière Rouge](https://www.riviere-rouge.ca/patinoires-exterieures)
 
 ## Epicerie
 
