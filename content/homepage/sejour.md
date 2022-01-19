@@ -76,6 +76,13 @@ Bon appétit
 
 ## Spa
 
+Voici les consignes:
+
+* Prendre une douche avant toute utilisation!
+* Pas de nourriture ou boissons. Si nous trouvons de la bière, reste de nourriture ou autre, un supplément de $250 vous sera facturé pour remplacer l'eau.
+* Fermez immédiatement le couvercle après utilisation
+* Evitez d'utiliser plus de 20mn par session, pour éviter l'hyperthermie
+
 ## Guide Eté
 
 * Sur place : baignade, accès à l’eau privé, canoë, kayak, volleyball de plage, badminton, spa, observation d’oiseaux,
