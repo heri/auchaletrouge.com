@@ -29,23 +29,23 @@ Network : abchalet
 
 Mot de passe: <div id="template-guestcode">Faites une réservation pour voir votre le code WiFi</div>
 
-## Chauffage et AC
+Note : le signal peut etre interrompu en cas de tempête
 
-Vous pouvez chauffer avec les plinthes, la thermopompe dans le salon, ou bien avec le poele. S'il fait plus de -25C, la thermopompe est le moyen de chauffage le plus efficace et le plus comfortable. 
+## Electricité, Chauffage et electro-ménager
 
-S'il fait trop chaud, la thermopompe peut aussi réguler l'humidité et la température.
+Vous pouvez chauffer avec les plinthes, la thermopompe dans le salon, ou bien avec le poele. S'il fait plus de -25C, la thermopompe est le moyen de chauffage le plus efficace et le plus comfortable. S'il fait trop chaud, la thermopompe peut aussi réguler l'humidité et la température.
 
 Veuillez fermer porte et fenetres si vous utilisez le chauffage et/ou AC. Une alarme auditif sera émis régulièrement sinon. Pensons à l'environnement!
 
-## Electro-ménagers
+Les pastilles sont placés sous l'évier pour la lave-vaisselle. Mettre une pastille, ajuster la configuration selon votre préférence, fermez la porte, et appuyez sur "Start". Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
 
-Les pastilles sont placés sous l'évier. Mettre une pastille dans la lave-vaisselle, ajuster la configuration selon votre préférence, fermez la porte, et appuyez sur "Start"
-
-Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
+Note: Dû à des conditions hors de notre controle, comme vents violents, tempêtes ou autres, l'électricité peut couper. Vous pouvez nous avertir. Veuillez fermer portes et fenetres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. Si la coupure est maintenu, un remboursement pour le reste des jours non utilisés est possible.
 
 ## Eau
 
 Le chalet est alimenté par un puits de surface tout proche de la Rivière. L'eau a des particules de fer, de couleur rouge, d'où le nom de la Rivière Rouge. Nous avons un système de filtre au-sol et nous avons testé l'eau, qui est potable. Néanmoins, il se peut que vous trouviez que l'eau ait une couleur orangée ou rouge dû à ces particules de fer.
+
+Note: Dû à des conditions hors de notre controle, comme gel, crues, ou sécheresse, l'eau peut manquer. Dans ce cas, un remboursement pour le reste de jours non utilisés est possible.
 
 ## Foyer
 
@@ -53,35 +53,26 @@ Un feu nous rappelle les temps où nous n'étions pas dépendant de la technolog
 
 Avant de partir un feu, soyez sur d'avoir du bois sec et du bon bois d'allumage. Mettez d'abord papiers et bois d'allumage, en faisant attention qu'il ait une aération d'air suffisant. Quand le feu prend, vous pouvez ajouter petit à petit du bois plus gros. Youtube a aussi [des guides intéressant](https://www.youtube.com/watch?v=rs8Bwk8vcqs)
 
-## Sofa convertible
-
-There is a queen size sleeper sofa in the living room.  Linens and a blanket are already made up on the bed. Simply open the sofa to find it made.  Pillows for the sofa bed are located in the closet of the master bedroom.
-
-When the bed is open, please take care NOT to sit on the edge of the bed, as the metal frame is susceptible to being bent.
-
 ## Salle familiale
 
 La salle du bas a été concu pour vous amuser. Connectez à la TV intelligente avec votre telephone. Vous pouvez utiliser Amazon TV 
 
-Note : le signal peut etre interrompu s'il y a une grande tempete
+On a une petite sélection de livres qui invitent à la découverte. Si vous en prenez un, laissez en un autre. Bonne lecture! On a aussi des DVDs qui compte parmi nos films favoris, ainsi que des jeux pour petits et grands.
 
-On a une petite sélection de livres qui invitent à la découverte. Si vous en prenez un, laissez en un autre. Bonne lecture!
-
-On a aussi des DVDs qui compte parmi nos films favoris, ainsi que des jeux pour petits et grands.
+Il y a un sofa convertible taille queen dans cette salle familiale. Si vous désirez l'utiliser, une couverture est disponible mais nous recommendans d'apportez de la literie (draps ou autre).
 
 ## BBQ
 
-Your home is equipped with a BBQ for your use.  
+Le chalet a un BBQ libre d'utilisation. Veuillez lire ces consignes:
 
-If you wish to use the BBQ, please be mindful of these guidelines:
-A set of BBQ tools can be found in the kitchen.
-You are responsible to clean the BBQ after use.
-If the propane runs empty, please let us know and we can swap it out for a full one.
-Please put the cover on the BBQ once it has cooled after use.
-If you are unfamiliar with the operation of the BBQ, please ask for instructions.
-For safety, be mindful of young children while using the BBQ, and while it is still hot after use.
+* les outils de BBQ sont sur le côté. Outils complémentaires disponibles dans la cuisine.
+* Vous êtes responsable de nettoyer le BBQ après utilisation, comme vous l'avez trouvé
+* Si un bonbonne de gas est vide, veuillez nous avertir. Un autre bonbonne est disponible sur le coté.
+* Fermez le couvercle après utilisation
+* Si vous avez des difficultés pour utiliser, veuillez nous contacter
+* Veuillez tenir hors de portée des enfants en tout temps. Ils peuvent se brûler et peuvent aussi jouer avec le feu. Un départ de feu serait catastrophique
 
-Happy cooking!
+Bon appétit
 
 ## Spa
 
@@ -112,20 +103,20 @@ Happy cooking!
 * [Expedition wolf](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/outdoor-and-adventure/expedition-wolf-10483573)   ⭐️⭐️⭐️⭐️⭐️
 * [Club de ski des six cantons](https://goo.gl/maps/8mPxwZ5siEuBU7sx5): raquette, cross-country ski  ⭐️⭐️⭐️⭐️⭐️
 * [Ski hors piste rouge manawain](https://goo.gl/maps/6TatHsVxBPuqnJx29)  ⭐️⭐️⭐️⭐️
-* [Ice fishing Parc regional Kamiaka](https://goo.gl/maps/VHP2Jy3GTdNto4Gq6)  ⭐️⭐️⭐️⭐️
+* [Pêche sur glace, Parc regional Kamiaka](https://goo.gl/maps/VHP2Jy3GTdNto4Gq6)  ⭐️⭐️⭐️⭐️
 * [Expedition Hautes Laurentides](https://goo.gl/maps/6Y2egLSmHN9zdzDR7),
-* [Nordic skiing, traineau, raquettes ](https://reservoirkiamika.org/)
+* [Ski de fond, traineau, raquettes ](https://reservoirkiamika.org/)
 * [Patinoire exterieures, Rivière Rouge](https://www.riviere-rouge.ca/patinoires-exterieures)
 
 ## Epicerie
 
-IGA Marché Raymond Rivière Rouge: épicerie moderne avec de la nourriture à emporter
+IGA Marché Raymond Rivière Rouge: épicerie moderne avec de la nourriture à emporter, livraison au chalet
 1395 Rue l'Annonnciation S
 
 Tigre Géant: nourriture ainsi que articles divers, à un prix accessible
 1620 Rue l'Annonciation S
 
-Sports Experts : article de sport d'été (kayaks, vélos, canoe) mais aussi d'hiver
+Sports Experts: article de sport d'été (canoe kayaks, randonnée, baignade, vélos etc.) mais aussi d'hiver
 1293 Rue l'Annonciation S
 
 SAQ: alcools
@@ -134,10 +125,15 @@ SAQ: alcools
 RONA: article de rénovation, outillage, peche
 400 Rue l'Annoncation S
 
+Tim Hortons: boissons chaudes et nourriture rapide
+2139 Rue l'Annonciation S
+
+Les commerces peuvent avoir des heures d'ouverture limités dû au manque de personel.
+
 ## Pharmacie & Soins Médicaux
 
-Centre de services Rivière Rouge (Hopital)
-Address: 1525 Rue l'Annonciation N
+Hopital: Centre de services Rivière Rouge
+1525 Rue l'Annonciation N
 Ouvert 24/7 avec urgences
 
 Pharmacie Jean Coutu 

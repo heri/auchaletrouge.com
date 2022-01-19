@@ -10,33 +10,25 @@ Si vous voulez partir après, nous ferons de notre mieux mais nous ne pouvons pa
 
 ## Departure checklist
 
-We offer full-service rentals and take responsibility to fully clean between guests. You do not need to strip your beds, launder linens, or wash the last set of dishes.
+Nous nettoyons entièrement le chalet entre les séjours. Vous n'avez pas besoin d'enlever la literie, de les nettoyer ou bien de nettoyer le comptoir de la cuisine.
 
-How clean are you expected to leave the home? A good rule of thumb is that if your mother were to see the home upon your departure, she should not be embarrassed!
+Quel doit etre l'état du chalet quand vous partez? Une règle de base est que si votre maman irait voir le chalet avant votre départ, vous ne devez pas être embarassé(e)
 
-While you are not expected to do a thorough cleaning, please be reasonable. Rinse your dishes and cookware and place in the dishwasher. Do not leave filthy dishes or garbage strewn about. Clean up after major messes, spills and accidents or bring them to our attention.
+Bien que on ne s'attend pas un nettoyage approfondi, soyez raisonnable. Mettez la vaiselle et les casseroles dans la lave-vaisselle. Ne laissez pas de la vaisselle sale ou des ordures un peu partout. Nettoyez les dégats, petit accidents.
 
-Checklist:
+Votre checklist de départ:
 
-* Sign the guest book!
-* Close and lock all windows
-* Ensure that all faucets are off
-* In winter, turn thermostat down to about 15 degrees C
-* Turn off all lights
-* Ensure that the TV, heatpump, fire stove, BBQ are turned off
-* Make sure the dishwasher cycle is started. Otherwise the cleaning staff has to hand wash the dishes
-* Triple check the house to ensure you have not left anything behind, including phone chargers, laptop cords, jewelry, passports, wallets, clothing, toys and any leftover food or grocery items
-* Pull front door shut behind you and make sure it locks by touching the word Yale
+* Signer le livre d'or
+* Voir si vous n'avez rien oublié autour du spa, ustensiles, verre, mégots, et fermer le couvercle du spa
+* Fermez portes et fenetre
+* S'assurer que tous les robinets sont fermés
+* En hiver, mettre tout le chauffage à environ 15C
+* Eteindre les lumières
+* S'assurer que la TV, Air Conditionné/Pompe, Foyer et BBQ sont éteints
+* S'assurer que le cycle lave-vaiselle a démarré. Sinon l'équipe de nettoyage devra la vaiselle à la main
+* Verifier une fois, deux fois, trois fois l'intérieur ET exterieur que vous n'avez rien oublié : chargeur de télephone, laptop, bijoux, passeports, portefeuillez, clés, maillots de bains, jouets. Prenez avec vous la nourriture !
+* Fermer la porte principale derrière vous et peser sur le bouton "Yale" pour barrer
 
-## Lost and Found
-Please triple check the home before departing to ensure you have not left anything behind. Common items left behind include phone chargers, computer cords, passports/licenses, clothes, electronics, eyeglasses, toiletries/makeup, documents, and toys.
+Nous vous souhaitons un bon retour à la maison.
 
-If you have left something behind, we use an online tool to reunite you with your belongings. It also provides a way for us to track the search for the item and communicate among our team.
-
-Please enter the details regarding your lost item at this link.
-
-Be certain to include:
-
-Item description
-Where you think you may have left the item
-The name on the reservation
+Si le séjour vous a plu ou si vous avez des commentaires, vous pouvez [remplir notre sondage](https://www.surveymonkey.com/r/DFCJMRF). Merci! 

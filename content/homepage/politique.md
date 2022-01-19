@@ -38,7 +38,7 @@ Voici les règles:
 * pas de feu extérieur quand la température extérieur dépasse 30C (risque de feux sauvage)
 * pas de drogue
 * pas de nourriture ou boissons dans le spa. Si nous trouvons de la boisson ou des bouchons de bière/vin, $250 vous sera factué pour remplacement de l'eau
-* pas de remboursements
+* pas de remboursements, sauf coupure d'eau ou coupure d'éléctricité. Dans ce cas, un remboursement correspondant au coûts des jours non utilisés sera proposé.
 
 ## Animaux domestiques
 
