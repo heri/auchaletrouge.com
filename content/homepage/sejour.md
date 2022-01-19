@@ -85,28 +85,69 @@ Happy cooking!
 
 ## Spa
 
-## Kayaks
+## Guide Eté
 
-## Sports gear
+* Sur place : baignade, accès à l’eau privé, canoë, kayak, volleyball de plage, badminton, spa, observation d’oiseaux,
+* Canoe kayak: [Descente de la rouge]( https://goo.gl/maps/6SFppcyR4kQqNB2R9) [https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/sports-equipment-rental-companies/descente-de-la-rouge-500006203](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/sports-equipment-rental-companies/descente-de-la-rouge-500006203 "https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/sports-equipment-rental-companies/descente-de-la-rouge-500006203")  ⭐️⭐️⭐️⭐️⭐️
+* [Spa Le geyser](https://www.quebecoriginal.com/en/listing/things-to-do/entertainment/spas/spa-le-geyser-373176494)    ⭐️⭐️⭐️⭐️⭐️
+* [Ferme animaux Alpaga](https://alpagahl.ca/)  ⭐️⭐️⭐️⭐️⭐️
+* [Pourvoirie Club Rossignol](https://g.page/ClubRossignol?share) (equitation)  ⭐️⭐️⭐️⭐️⭐️
+* [Visite du Vignoble Spirit Lénoard]( https://www.quebecoriginal.com/en/listing/things-to-do/heritage-sites-and-attractions/industrial-tours/vignoble-spirit-leonard-396641966 ) ⭐️⭐️⭐️⭐️⭐️
+* [Randonnée déli-Champs](https://www.champignonssauvages.com/) (Cueillette de champignons sauvages en randonée) 
+* [Air Mont-Laurier](https://www.airmontlaurier.com/transport-aerien-hydravion-quebec/), Tour en hydravion   ⭐️⭐️⭐️⭐️⭐️
+* [Les serres en folie](https://goo.gl/maps/aLmnhdzCktpTR7Ff8) ⭐️⭐️⭐️⭐️⭐️
+* [Peche aventure](https://www.sepaq.com/rf/rom/ ), chasse à l’ours noir, chasse au petit gibier, chasse à l’orignal, chasse au cerf de virginie  ⭐️⭐️⭐️⭐️
+* [Cowboy paintall](https://www.cowboypaintball.ca/)  ⭐️⭐️⭐️⭐️
+* [Petit train du nrd ](https://goo.gl/maps/1NZmS48WV1yfrdf48)
+* [Golf Nominigue](https://goo.gl/maps/dpfRc7zvRRLFMoTP6)  ⭐️⭐️⭐️⭐️
+* [Plage municipal Michel Jr Levesqie]( https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/beaches/plage-michel-jr-levesque-7853362)
+* [Acces Parc du Mont-Tremblant](https://goo.gl/maps/bkfknvPYSsye563i6) via chemin du Lac Caché  ⭐️⭐️⭐️⭐️⭐️
+* [Réserve faunique Papineau Labelle](https://goo.gl/maps/cXkmAT8ssHiKvjih6) (+45mn , loin)  ⭐️⭐️⭐️⭐️
+* [Parc Régional Kamiaka](https://reservoirkiamika.org/): randonée, canoe, kayak, pontons  ⭐️⭐️⭐️⭐️
 
-## Farms
+## Guide Hiver
 
-## Outing and day trips
-* Parcs
-* Mont Tremblant
+* Traineau a chien, canoe camping: [Aventure quatre saisons](https://goo.gl/maps/ANHJDqDzy3Mr7PS27)  ⭐️⭐️⭐️⭐️⭐️
+* [Aventures Skidoo location](https://www.cana-dooaventures.com/)  ⭐️⭐️⭐️⭐️⭐️ Skidoo https://www.riviere-rouge.ca/motoneige-et-quad
+* [Expedition wolf](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/outdoor-and-adventure/expedition-wolf-10483573)   ⭐️⭐️⭐️⭐️⭐️
+* [Club de ski des six cantons](https://goo.gl/maps/8mPxwZ5siEuBU7sx5): raquette, cross-country ski  ⭐️⭐️⭐️⭐️⭐️
+* [Ski hors piste rouge manawain](https://goo.gl/maps/6TatHsVxBPuqnJx29)  ⭐️⭐️⭐️⭐️
+* [Ice fishing Parc regional Kamiaka](https://goo.gl/maps/VHP2Jy3GTdNto4Gq6)  ⭐️⭐️⭐️⭐️
+* [Expedition Hautes Laurentides](https://goo.gl/maps/6Y2egLSmHN9zdzDR7), Traineau a chien   https://www.sleddogsquebec.com/ ⭐️⭐️⭐️⭐️ https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/cross-country-ski-centres/club-les-six-cantons-5910712
+* [Nordic skiing, traineau, raquettes ](https://reservoirkiamika.org/)
+* [Patinoire exterieures](https://www.riviere-rouge.ca/patinoires-exterieures)
 
-## Grocery Store
-* IGA
-* Tiger
+## Epicerie
+
+IGA Marché Raymond Rivière Rouge: épicerie moderne avec de la nourriture à emporter
+1395 Rue l'Annonnciation S
+
+Tigre Géant: nourriture ainsi que articles divers, à un prix accessible
+1620 Rue l'Annonciation S
+
+Sports Experts : article de sport d'été (kayaks, vélos, canoe) mais aussi d'hiver
+1293 Rue l'Annonciation S
+
+SAQ: alcools
+1383 Rue l'Annonciation S
+
+RONA: article de rénovation, outillage, peche
+400 Rue l'Annoncation S
 
 ## Pharmacie & Soins Médicaux
 
-CityMD Urgent Care
-Address: 217 Broadway East 
-Hours: 
-Weekdays: 8 a.m. - 8 p.m.
-Saturday: 8 a.m. – 5 p.m.
-Sunday: 8 a.m. – 3 p.m.
+Centre de services Rivière Rouge (Hopital)
+Address: 1525 Rue l'Annonciation N
+Ouvert 24/7 avec urgences
 
+Pharmacie Jean Coutu 
+722 Rue l'Annonciation N
+Ouvre à 9h00
 
-Dentistes
+Familiprix Extra - Maxim Charland
+1389 Rue L'Annonciation S
+Ouvre à 9h00
+
+Dentiste: Desauziers Malgorzata Dr
+716 Rue l'Annonciation N
+Ouvre à 8h30
