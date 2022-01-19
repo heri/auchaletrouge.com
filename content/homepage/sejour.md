@@ -47,21 +47,11 @@ Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est 
 
 Le chalet est alimenté par un puits de surface tout proche de la Rivière. L'eau a des particules de fer, de couleur rouge, d'où le nom de la Rivière Rouge. Nous avons un système de filtre au-sol et nous avons testé l'eau, qui est potable. Néanmoins, il se peut que vous trouviez que l'eau ait une couleur orangée ou rouge dû à ces particules de fer.
 
-# Foyer
+## Foyer
 
 Un feu nous rappelle les temps où nous n'étions pas dépendant de la technologie. Un bon moyen aussi de rapprocher petits et grands.
 
 Avant de partir un feu, soyez sur d'avoir du bois sec et du bon bois d'allumage. Mettez d'abord papiers et bois d'allumage, en faisant attention qu'il ait une aération d'air suffisant. Quand le feu prend, vous pouvez ajouter petit à petit du bois plus gros. Youtube a aussi [des guides intéressant](https://www.youtube.com/watch?v=rs8Bwk8vcqs)
-
-# Technologie
-
-Le chalet est intelligent. Il y a beaucoup de technologie pour rendre vous sejour confortable et pratique.
-
-La photo ici montre quelques objets électroniques que vous pourriez trouver dans le chalet. Ceci inclut routeur WiFi, réception Internet (satellite), serrures électroniques, caméras extérieurs, smart hubs, capteurs de température et d'humidité etc.
-
-Si vous déconnectiez une de ces pièces, la serrure électronique peut s'arrêtez de fonctionner, pareil pour le chauffage ou tout autre équipement vital. Les invités ne sont pas autorisés à déconnecter aucun appareil sans notre permission écrite.
-
-[Veuillez noter qu'il n'y a pas de caméras intérieurs]
 
 ## Sofa convertible
 

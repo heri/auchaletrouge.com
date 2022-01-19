@@ -61,3 +61,13 @@ Nous faisons très attention qu'il reste toujours de la place dans le bac de rec
 * vous emportez le surplus avec vous
 
 La municipalité fait la [collecte des ordures](https://www.riviere-rouge.ca/calendrier-des-collectes) seulement une fois par mois, et les autres collectes 2 fois par mois. Donc c'est extremmement important de faire attention aux poubelles.
+
+# Technologie
+
+Le chalet est intelligent. Il y a beaucoup de technologie pour rendre vous sejour confortable et pratique.
+
+La photo ici montre quelques objets électroniques que vous pourriez trouver dans le chalet. Ceci inclut routeur WiFi, réception Internet (satellite), serrures électroniques, caméras extérieurs, smart hubs, capteurs de température et d'humidité etc.
+
+Si vous déconnectiez une de ces pièces, la serrure électronique peut s'arrêtez de fonctionner, pareil pour le chauffage ou tout autre équipement vital. Les invités ne sont pas autorisés à déconnecter aucun appareil sans notre permission écrite.
+
+[Veuillez noter qu'il n'y a pas de caméras intérieurs]
