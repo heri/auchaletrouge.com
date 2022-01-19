@@ -29,7 +29,7 @@ Network : abchalet
 
 Mot de passe: <div id="template-guestcode">Faites une réservation pour voir votre le code WiFi</div>
 
-Note : le signal peut etre interrompu en cas de tempête
+Note : le signal peut être interrompu en cas de tempête
 
 ## Electricité, Chauffage et electro-ménager
 
@@ -39,7 +39,7 @@ Veuillez fermer porte et fenetres si vous utilisez le chauffage et/ou AC. Une al
 
 Les pastilles sont placés sous l'évier pour la lave-vaisselle. Mettre une pastille, ajuster la configuration selon votre préférence, fermez la porte, et appuyez sur "Start". Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
 
-Note: Dû à des conditions hors de notre controle, comme vents violents, tempêtes ou autres, l'électricité peut couper. Vous pouvez nous avertir. Veuillez fermer portes et fenetres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. Si la coupure est maintenu, un remboursement pour le reste des jours non utilisés est possible.
+Note: Dû à des conditions hors de notre controle, comme vents violents, tempêtes ou autres, les coupures d'électricité peuvent arriver 1 à 2 fois par année. Vous pouvez nous avertir d'abord. Ensuite, veuillez fermer portes et fenetres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. Si la coupure est maintenu, un remboursement pour le reste des jours non utilisés est possible.
 
 ## Eau
 
@@ -63,20 +63,16 @@ Il y a un sofa convertible taille queen dans cette salle familiale. Si vous dés
 
 ## BBQ
 
-Le chalet a un BBQ libre d'utilisation. Veuillez lire ces consignes:
-
-* les outils de BBQ sont sur le côté. Outils complémentaires disponibles dans la cuisine.
+* Les outils de BBQ sont sur le côté. Outils complémentaires disponibles dans la cuisine.
 * Vous êtes responsable de nettoyer le BBQ après utilisation, comme vous l'avez trouvé
 * Si un bonbonne de gas est vide, veuillez nous avertir. Un autre bonbonne est disponible sur le coté.
 * Fermez le couvercle après utilisation
 * Si vous avez des difficultés pour utiliser, veuillez nous contacter
 * Veuillez tenir hors de portée des enfants en tout temps. Ils peuvent se brûler et peuvent aussi jouer avec le feu. Un départ de feu serait catastrophique
 
-Bon appétit
+Bon appétit!
 
 ## Spa
-
-Voici les consignes:
 
 * Prendre une douche avant toute utilisation!
 * Pas de nourriture ou boissons. Si nous trouvons de la bière, reste de nourriture ou autre, un supplément de $250 vous sera facturé pour remplacer l'eau.

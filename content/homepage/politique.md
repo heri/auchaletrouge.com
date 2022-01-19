@@ -44,16 +44,16 @@ Voici les règles:
 
 Nous acceptons un animal domestique, petit chien ou chat par groupe. Voici les règles:
 * l'animal doit être en tout temps accompagné, intérieur ou extérieur. Par exemple, si vous devez partir en randonnée, il ne faut pas laisser le chien seul au chalet.
-* l'animal doit faire TOUT ses besoins à l'extérieur. Après, bien nettoyer et mettre le sac dans le bac noir
+* l'animal doit faire TOUT ses besoins à l'extérieur. Après, ramasser et mettre le sac dans le bac noir
 * l'animal ne doit JAMAIS être sur sofa, chaises ou lits
 
 Si vous n'etes pas sur que votre animal ne peut suivre ces règles, nous ne pouvons malheureusement l'accepter.
 
 ## Poubelles
 
-Comme bien d'autres villes dans les Laurentides, Rivière Rouge a un controle strict sur les poubelles. Il y a le recyclage, compost et ordures. On met tout matière organique au compost, y compris papier et cartons ainsi que déchets de jardin. On met au recyclage tout plastique, verre non souillés. Tout le reste va aux ordures
+Comme d'autres villes dans les Laurentides, Rivière Rouge a un contrôle strict sur les poubelles. Si vous venez d'une ville comme Montréal ou Ottawa, vous serez surpris d'apprendre que la quantité d'ordure par addresse est limité. Nous demandons donc votre collaboration, en apportant et en créant le moins d'ordures possible (pensez à la nature), et aussi en faisant le tri. Il y a le recyclage, compost et ordures. On met tout matière organique au compost, y compris papier et cartons ainsi que déchets de jardin. On met au recyclage tout plastique, verre non souillés. Tout le reste va aux ordures
 
-N'essayez pas de contourner les règles, parce que nous risquons des amendes. Si vous avez un gros doute, vous pouvez nous envoyer un texto avec image pour que nous verifions votre tri avant de le mettre aux poubelles. S'il y a une amende, ce sera soustrait de votre depot de securité même si la collecte est fait après votre départ!
+N'essayez pas de contourner les règles, parce que nous risquons des amendes. Si vous avez un doute, vous pouvez nous envoyer un texto avec image pour que nous vérifions votre tri avant de le mettre aux poubelles. S'il y a une amende, ce sera soustrait de votre depot de securité même si la collecte est fait après votre départ!
 
 Nous faisons très attention qu'il reste toujours de la place dans le bac de recyclage, compost et ordures. Si vous avez trop d'ordures, vous avez deux choix:
 
