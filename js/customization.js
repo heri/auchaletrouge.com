@@ -9,9 +9,10 @@ var pageQuery = window.location.search;
 var pageParameters = new URLSearchParams(pageQuery);
 
 for (let k of pageParameters.keys()) {
-    var template = document.getElementById(`template-${k}`);
-    var templateHtml = template.innerHTML;
-    var content = templateHtml.replace(`{{${k}}}`, pageParameters.get(k))
-    document.getElementById(`template-${k}-container`).innerHTML = content;
+    // var template = document.getElementById(`template-${k}`);
+    // var templateHtml = template.innerHTML;
+    // var content = templateHtml.replace(`{{${k}}}`, pageParameters.get(k))
+    // document.getElementById(`template-${k}-container`).innerHTML = content;
+    document.getElementById(`template-${k}`).innerHTML = pageParameters.get(k);
 }
 
