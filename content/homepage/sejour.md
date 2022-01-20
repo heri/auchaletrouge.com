@@ -27,7 +27,7 @@ Si vous avez besoin de plus, vous pouvez facilement les remplacer en allant à u
 
 Network : abchalet
 
-Mot de passe: <div id="template-wificode">Faites une réservation pour voir votre le code WiFi</div>
+Mot de passe: <span id="template-wificode">Faites une réservation pour voir votre le code WiFi</span>
 
 Note : le signal peut être interrompu en cas de tempête
 

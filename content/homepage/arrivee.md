@@ -27,7 +27,7 @@ La cour a 6 places de stationnement. Il peut avoir moins d'espace à cause des t
 
 Le chalet est équippé d'une serrure électronique. Vous pouvez arriver ou partir à n'importe quelle heure  sans devoir attendre quelqu'un pour des clés.
 
-Votre code est actif à part de 4pm (16h00):
+Votre code personalisé est actif à part de 4pm (16h00):
 
 <div id="template-guestcode">Faites une réservation pour voir votre code personalisé</div>
 
