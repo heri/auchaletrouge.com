@@ -45,8 +45,6 @@ Vous pouvez manuellement fermer la serrure de l'intérieur. De l'extérieur, vou
 
 Important: Si vous n'arrivez pas à déverrouiller, c'est la plupart du temps parce que vous n'avez pas tapé sur le bouton "Yale" avant de rentrer leur code
 
-<div id="template-guestname-container"></div>
-
-<script id="template-guestname" type="text/template">
+<!-- <script id="template-guestname" type="text/template">
     {{guestname}}
-</script>
+</script> -->

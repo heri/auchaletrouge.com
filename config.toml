@@ -90,3 +90,6 @@ URL = "https://twitter.com/heri"
 [[params.social]]
 icon = "ti-github"
 URL = "https://github.com/heri"
+
+[markup.goldmark.renderer]
+unsafe= true
