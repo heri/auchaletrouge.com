@@ -34,7 +34,9 @@ Vos hôtes ont conçu Au Bonheur Chalet avec en tête pour votre bonheur. Constr
 
 {{<icon class="fa fa-fire">}} Foyer intérieur et 2 feux extérieurs
 
-{{<icon class="fa fa-tv">}} TV 4K intelligent 
+{{<icon class="fa fa-tv">}} TV 4K intelligent
+
+{{<icon class="fa fa-book">}} Jeux de société, livres et DVD
 
 {{<icon class="fa fa-wifi">}} Wifi suffisant pour Netflix ou Zoom
 
