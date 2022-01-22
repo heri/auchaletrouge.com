@@ -4,17 +4,17 @@ weight: 1
 header_menu: true
 ---
 
-Construit sur les rives de la Rivière Rouge, où les montagnes et les forêts de pin se rencontrent, ce chalet en bois rond vous accueille toute l'année dans la quiétude et la beauté des grands espaces Canadiens. Embarquez sur un kayak et allez explorer. Profitez des longues plages de sable.
+Construit sur les rives de la Rivière Rouge, où les montagnes et les forêts de pin se rencontrent, ce chalet en bois rond vous accueille toute l'année dans la quiétude et la beauté des grands espaces Canadiens. Embarquez à bord d'un kayak et allez explorer. Profitez des longues plages de sable.
 
 ## La Nature
 
 ![cabin interior](images/unwind.jpg)
 
-Le terrain privé de 1 acre est parfait pour les familles à la recherche d'un escapade de luxe, ou les groupes souhaitant se rapprocher de la nature, avec quelque chose pour tout le monde. Au Bonheur Chalet offre une grande terrasse pour observer les étoiles, un grand spa pour se détendre, des feux extérieurs avec hamacs et chaises Adirondack pour partager des souvenirs avec les amis et la famille
+Le terrain privé de 1 acre est parfait pour les familles à la recherche d'une escapade de luxe, ou les groupes souhaitant se rapprocher de la nature. Au Bonheur Chalet offre une grande terrasse pour observer les étoiles, un grand spa pour se détendre, des feux extérieurs avec hamacs et chaises Adirondack pour partager des souvenirs avec les amis et la famille.
 
 ## L'espace
 
-La nuit, la vue sur le ciel et les étoiles est incroyable. Le plafond cathédrale, les grandes fenêtres et les portes françaises vous connectent à la nature environnante.
+La nuit venue, la vue sur le ciel et les étoiles est magique. Le plafond cathédrale, les grandes fenêtres et les portes françaises vous connectent à la nature environnante.
 
 ![cabin interior](images/interior.jpg)
 
