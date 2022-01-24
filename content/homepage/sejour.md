@@ -10,18 +10,17 @@ Nous fournissons:
 
 * chambres: toute la literie
 * à l'entrée : trousse de premier secours, fer à repasser, balayeuse, 
-* salon : extincteur de feu, guestbook
+* salon : foyer avec bois de chauffage, extincteur de feu, guestbook
 * terrasse et extérieur: BBQ, bois de chauffage (sous la gallerie)
-* salle de bains: serviette (1 par personne), papier toilette, sèche-cheuveux, shampoing et savons, débouchoir (sous la vanité)
-* cuisine: sopalin, sous l'évier: 
+* salle de bains: serviette (1 par personne), papier toilette, sèche-cheuveux, plongeur (sous la vanité)
 
 Pour la cuisine, nous fournissons:
 * dans les armoires: sel, sucre et épices, casseroles et marmites, verres, tasses, plats et ustensiles de cuisine
-* sopalin et torchons de cuisine,
-* toaster, machine à café, bouillore, set de fondue, cuiseur à riz,
+* sopalin et torchons,
+* grille-pain, machine à café, bouillore, ensemble de fondue, cuiseur à riz,
 * sous l'évier: sacs pour ordure, recyclage, compost, pastilles lave-vaisselle
 
-Si vous avez besoin de plus, vous pouvez facilement les remplacer en allant à un des épiceries listées plus bas
+Si vous avez besoin de plus, vous pouvez facilement les remplacer en allant à [une des épiceries](https://abchalet.com/#epicerie) listées plus bas
 
 ## WiFi
 
@@ -29,7 +28,7 @@ Network : abchalet
 
 Mot de passe: <span id="template-wificode">Faites une réservation pour voir votre le code WiFi</span>
 
-Note : le signal peut être interrompu en cas de tempête
+Note : le signal peut être interrompu en cas de grosse tempête
 
 ## Electricité, Chauffage et electro-ménager
 
@@ -51,11 +50,11 @@ Note: Dû à des conditions hors de notre controle, comme gel, crues, ou sécher
 
 Un feu nous rappelle les temps où nous n'étions pas dépendant de la technologie. Un bon moyen aussi de rapprocher petits et grands.
 
-Avant de partir un feu, soyez sur d'avoir du bois sec et du bon bois d'allumage. Mettez d'abord papiers et bois d'allumage, en faisant attention qu'il ait une aération d'air suffisant. Quand le feu prend, vous pouvez ajouter petit à petit du bois plus gros. Youtube a aussi [des guides intéressant](https://www.youtube.com/watch?v=rs8Bwk8vcqs)
+Pour partir un feu, soyez sûr d'avoir du bois sec et du bon bois d'allumage. Mettez d'abord papiers et bois d'allumage, en faisant attention qu'il ait une aération d'air suffisant. Quand le feu prend, vous pouvez ajouter petit à petit du bois plus gros. Youtube a aussi [des guides intéressant](https://www.youtube.com/watch?v=rs8Bwk8vcqs)
 
 ## Salle familiale
 
-La salle du bas a été concu pour vous amuser. Connectez à la TV intelligente avec votre telephone. Vous pouvez utiliser Amazon TV 
+La salle du bas a été concu pour vous. Connectez à la TV intelligente avec votre téléphone. Vous pouvez utiliser Amazon TV 
 
 On a une petite sélection de livres qui invitent à la découverte. Si vous en prenez un, laissez en un autre. Bonne lecture! On a aussi des DVDs qui compte parmi nos films favoris, ainsi que des jeux pour petits et grands.
 
@@ -73,6 +72,8 @@ Il y a un sofa convertible taille queen dans cette salle familiale. Si vous dés
 Bon appétit!
 
 ## Spa
+
+Règles:
 
 * Prendre une douche avant toute utilisation!
 * Pas de nourriture ou boissons. Si nous trouvons de la bière, reste de nourriture ou autre, un supplément de $250 vous sera facturé pour remplacer l'eau.
@@ -113,25 +114,19 @@ Bon appétit!
 
 ## Epicerie
 
-IGA Marché Raymond Rivière Rouge: épicerie moderne avec de la nourriture à emporter, livraison au chalet
-1395 Rue l'Annonnciation S
+IGA Marché Raymond Rivière Rouge: épicerie moderne avec de la nourriture à emporter, livraison au chalet possible. 1395 Rue l'Annonnciation S
 
-Tigre Géant: nourriture ainsi que articles divers, à un prix accessible
-1620 Rue l'Annonciation S
+Tigre Géant: nourriture ainsi que articles divers, à un prix accessible. 1620 Rue l'Annonciation S
 
-Sports Experts: article de sport d'été (canoe kayaks, randonnée, baignade, vélos etc.) mais aussi d'hiver
-1293 Rue l'Annonciation S
+Sports Experts: article de sport d'été (canoe kayaks, randonnée, baignade, vélos etc.) mais aussi d'hiver. 1293 Rue l'Annonciation S
 
-SAQ: alcools
-1383 Rue l'Annonciation S
+SAQ. 1383 Rue l'Annonciation S
 
-RONA: article de rénovation, outillage, peche
-400 Rue l'Annoncation S
+RONA: articles de rénovation, outillage, peche. 400 Rue l'Annoncation S
 
-Tim Hortons: boissons chaudes et nourriture rapide
-2139 Rue l'Annonciation S
+Tim Hortons: boissons chaudes et nourriture rapide. 2139 Rue l'Annonciation S
 
-Les commerces peuvent avoir des heures d'ouverture limités dû au manque de personel.
+Les commerces peuvent avoir des heures d'ouverture limités dû à la pandémie.
 
 ## Pharmacie & Soins Médicaux
 
