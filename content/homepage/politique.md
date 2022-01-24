@@ -38,7 +38,7 @@ Voici les règles:
 * pas de feu extérieur quand la température extérieur dépasse 30C (risque de feux sauvage)
 * pas de drogue
 * pas de nourriture ou boissons dans le spa. Si nous trouvons de la boisson ou des bouchons de bière/vin, $250 vous sera factué pour remplacement de l'eau
-* pas de remboursements, sauf coupure d'eau ou coupure d'éléctricité. Dans ce cas, un remboursement correspondant au coûts des jours non utilisés sera proposé.
+* pas de remboursements
 
 ## Animaux domestiques
 
@@ -51,22 +51,22 @@ Si vous n'etes pas sur que votre animal ne peut suivre ces règles, nous ne pouv
 
 ## Poubelles
 
-Comme d'autres villes dans les Laurentides, Rivière Rouge a un contrôle strict sur les poubelles. Si vous venez d'une ville comme Montréal ou Ottawa, vous serez surpris d'apprendre que la quantité d'ordure par addresse est limité. Nous demandons donc votre collaboration, en apportant et en créant le moins d'ordures possible (pensez à la nature), et aussi en faisant le tri. Il y a le recyclage, compost et ordures. On met tout matière organique au compost, y compris papier et cartons ainsi que déchets de jardin. On met au recyclage tout plastique, verre non souillés. Tout le reste va aux ordures
+Comme d'autres villes dans les Laurentides, Rivière Rouge a un contrôle strict sur les poubelles. Si vous venez d'une ville comme Montréal ou Ottawa, vous serez surpris d'apprendre que la quantité d'ordure par addresse est limitée! Nous demandons donc votre collaboration, en apportant et en créant le moins d'ordures possible (pensez à la nature), et aussi en faisant le tri. Il y a le recyclage, compost et ordures. On met tout matière organique au compost, y compris papier et cartons ainsi que déchets de jardin. On met au recyclage tout plastique, verre non souillés. Tout le reste va aux ordures
 
 N'essayez pas de contourner les règles, parce que nous risquons des amendes. Si vous avez un doute, vous pouvez nous envoyer un texto avec image pour que nous vérifions votre tri avant de le mettre aux poubelles. S'il y a une amende, ce sera soustrait de votre depot de securité même si la collecte est fait après votre départ!
 
 Nous faisons très attention qu'il reste toujours de la place dans le bac de recyclage, compost et ordures. Si vous avez trop d'ordures, vous avez deux choix:
 
-* vous laissez le surplus qui ne rentre pas à la porte et vous nous enverrez un texto. Un $60+tx de frais sera facturé
+* vous laissez le surplus qui ne rentre pas à la porte et vous nous envoyez un texto. Un $60+tx de frais sera facturé
 * vous emportez le surplus avec vous
 
-La municipalité fait la [collecte des ordures](https://www.riviere-rouge.ca/calendrier-des-collectes) seulement une fois par mois, et les autres collectes 2 fois par mois. Donc c'est extremmement important de faire attention aux poubelles.
+La municipalité fait la [collecte des ordures](https://www.riviere-rouge.ca/calendrier-des-collectes) seulement une fois par mois, et les autres collectes 2 fois par mois. Donc c'est extrêmement important de faire attention aux poubelles.
 
 # Technologie
 
-Le chalet est intelligent. Il y a beaucoup de technologie pour rendre vous sejour confortable et pratique.
+Le chalet est intelligent. Il y a beaucoup de technologie pour rendre votre séjour confortable et pratique.
 
-La photo ici montre quelques objets électroniques que vous pourriez trouver dans le chalet. Ceci inclut routeur WiFi, réception Internet (satellite), serrures électroniques, caméras extérieurs, smart hubs, capteurs de température et d'humidité etc.
+Vous pouvez trouver différents objets électroniques dans le chalet. Ceci inclut routeur WiFi, réception Internet (satellite), serrures électroniques, caméras extérieurs, smart hubs, capteurs de température et d'humidité, filtre à air etc.
 
 Si vous déconnectiez une de ces pièces, la serrure électronique peut s'arrêtez de fonctionner, pareil pour le chauffage ou tout autre équipement vital. Les invités ne sont pas autorisés à déconnecter aucun appareil sans notre permission écrite.
 

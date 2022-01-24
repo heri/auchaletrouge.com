@@ -38,13 +38,13 @@ Veuillez fermer porte et fenetres si vous utilisez le chauffage et/ou AC. Une al
 
 Les pastilles sont placés sous l'évier pour la lave-vaisselle. Mettre une pastille, ajuster la configuration selon votre préférence, fermez la porte, et appuyez sur "Start". Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
 
-Note: Dû à des conditions hors de notre controle, comme vents violents, tempêtes ou autres, les coupures d'électricité peuvent arriver 1 à 2 fois par année. Vous pouvez nous avertir d'abord. Ensuite, veuillez fermer portes et fenetres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. Si la coupure est maintenu, un remboursement pour le reste des jours non utilisés est possible.
+Note: Dû à des conditions hors de notre controle, comme vents violents, tempêtes ou autres, les coupures d'électricité peuvent arriver 1 à 2 fois par année. Vous pouvez nous avertir d'abord. Ensuite, veuillez fermer portes et fenetres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. 
 
 ## Eau
 
 Le chalet est alimenté par un puits de surface tout proche de la Rivière. L'eau a des particules de fer, de couleur rouge, d'où le nom de la Rivière Rouge. Nous avons un système de filtre au-sol et nous avons testé l'eau, qui est potable. Néanmoins, il se peut que vous trouviez que l'eau ait une couleur orangée ou rouge dû à ces particules de fer.
 
-Note: Dû à des conditions hors de notre controle, comme gel, crues, ou sécheresse, l'eau peut manquer. Dans ce cas, un remboursement pour le reste de jours non utilisés est possible.
+Note: Dû à des conditions hors de notre contrôle, comme gel, crues, ou sécheresse, l'eau peut manquer.
 
 ## Foyer
 
