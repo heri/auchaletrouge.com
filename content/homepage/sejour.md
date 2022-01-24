@@ -1,6 +1,6 @@
 ---
 title: "Séjour"
-weight: 3
+weight: 4
 header_menu: true
 ---
 
@@ -30,6 +30,10 @@ Mot de passe: <span id="template-wificode">Faites une réservation pour voir vot
 
 Note : le signal peut être interrompu en cas de grosse tempête
 
+## Médias Sociaux
+
+Si vous aimez votre séjour, n'oubliez pas de voir [l'offre médiaux sociaux](https://abchalet.com/#offre)
+
 ## Electricité, Chauffage et electro-ménager
 
 Vous pouvez chauffer avec les plinthes, la thermopompe dans le salon, ou bien avec le poele. S'il fait plus de -25C, la thermopompe est le moyen de chauffage le plus efficace et le plus comfortable. S'il fait trop chaud, la thermopompe peut aussi réguler l'humidité et la température.
@@ -47,8 +51,6 @@ Le chalet est alimenté par un puits de surface tout proche de la Rivière. L'ea
 Note: Dû à des conditions hors de notre contrôle, comme gel, crues, ou sécheresse, l'eau peut manquer.
 
 ## Foyer
-
-Un feu nous rappelle les temps où nous n'étions pas dépendant de la technologie. Un bon moyen aussi de rapprocher petits et grands.
 
 Pour partir un feu, soyez sûr d'avoir du bois sec et du bon bois d'allumage. Mettez d'abord papiers et bois d'allumage, en faisant attention qu'il ait une aération d'air suffisant. Quand le feu prend, vous pouvez ajouter petit à petit du bois plus gros. Youtube a aussi [des guides intéressant](https://www.youtube.com/watch?v=rs8Bwk8vcqs)
 
