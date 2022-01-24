@@ -31,7 +31,7 @@ Votre code est actif à part de 4h de l'après-midi (16h00). Si vous voulez entr
 
 <div id="template-guestcode">Faites une réservation pour voir votre code personalisé</div>
 
-![serrure yale](images/yale.jpg)
+![serrure yale](images/yale.jpeg)
 
 Avec votre code personnalisé:
 
