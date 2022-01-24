@@ -9,4 +9,4 @@ Lors de votre séjour, envoyez-nous le lien de votre photo/vidéo sur Instagram,
 
 Veuillez noter que le remboursement peut prendre plus de 7 jours, dépendamment de la plateforme utlisée. Nous vérifions aussi que les interactions sont authentiques, que la publication ne dénigre pas le chalet, et que la publication fait référence au chalet ou ses caractéristiques, au moins en partie.
 
-Cette offre peut être utilisée plusieurs fois mais seulement une fois pour le même séjour.
+Cette offre peut être utilisée plusieurs fois par année mais seulement une fois pour le même séjour.
