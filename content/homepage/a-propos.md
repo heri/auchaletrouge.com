@@ -22,7 +22,7 @@ Soyez confortable à l'intérieur avec un bon livre ou un jeu de société pour 
 
 Vos hôtes ont conçu Au Bonheur Chalet avec en tête pour votre bonheur. Construit à partir de bois local, faisant écho à l'histoire du Québec, la cabane bois rond s'efforce de reconnecter les invités avec la nature avec chaque détail pensé. Le nom "Au bonheur Chalet" symbolise l'histoire qui a conduit à sa création et les souvenirs heureux que nous espérons qu'il vous apportera.
 
-{{<icon class="fa fa-image">}} Bord rivière rouge. Accès aux plages de sable fin, pêche, nage
+{{<icon class="fa fa-image">}} Bord rivière rouge. Accès aux plages de sable fin, kayak, pêche, nage
 
 {{<icon class="fa fa-tree">}} 1 acre de terrain privé - quiétude garantie
 
