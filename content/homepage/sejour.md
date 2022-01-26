@@ -11,13 +11,13 @@ Nous fournissons:
 * chambres: toute la literie
 * à l'entrée : trousse de premier secours, fer à repasser, balayeuse, 
 * salon : foyer avec bois de chauffage, chaise bébé, extincteur de feu, guestbook
-* terrasse et extérieur: BBQ, bois de chauffage (sous la gallerie)
+* terrasse et extérieur: BBQ, bois de chauffage (sous la terrasse)
 * salle de bains: serviette (1 par personne), papier toilette, sèche-cheuveux, plongeur (sous la vanité)
 
 Pour la cuisine, nous fournissons:
 * dans les armoires: sel, sucre et épices, casseroles et marmites, verres, tasses, plats et ustensiles de cuisine pour cuire ou préparer des plats au four,
 * sopalin et torchons,
-* grille-pain, machine à café, bouillore, ensemble de fondue, cuiseur à riz,
+* grille-pain, machine à café, bouilloire, ensemble de fondue, cuiseur à riz,
 * sous l'évier: sacs pour ordure, recyclage, compost, pastilles lave-vaisselle
 
 Si vous avez besoin de plus, vous pouvez facilement les remplacer en allant à [une des épiceries](https://abchalet.com/#epicerie) listées plus bas
@@ -28,7 +28,7 @@ Network : abchalet
 
 Mot de passe: <span id="template-wificode">Faites une réservation pour voir votre le code WiFi</span>
 
-Note : le signal peut être interrompu en cas de grosse tempête
+Note : le signal peut être interrompu en cas de grosses tempêtes.
 
 ## Médias Sociaux
 
@@ -52,7 +52,7 @@ Note: Dû à des conditions hors de notre contrôle, comme gel, crues, ou séche
 
 ## Foyer
 
-Pour partir un feu, soyez sûr d'avoir du bois sec et du bon bois d'allumage. Mettez d'abord papiers et bois d'allumage, en faisant attention qu'il ait une aération d'air suffisant. Quand le feu prend, vous pouvez ajouter petit à petit du bois plus gros. Youtube a aussi [des guides intéressant](https://www.youtube.com/watch?v=rs8Bwk8vcqs)
+Pour partir un feu, soyez sûr d'avoir du bois sec et du bon bois d'allumage. Mettez d'abord papiers et bois d'allumage, en faisant attention qu'il ait une aération d'air suffisant. Quand le feu prend, vous pouvez ajouter petit à petit du bois plus gros. Youtube a aussi [des guides intéressants](https://www.youtube.com/watch?v=rs8Bwk8vcqs)
 
 ## Salle familiale
 
