@@ -36,13 +36,13 @@ Si vous aimez votre séjour, n'oubliez pas de voir [l'offre médiaux sociaux](ht
 
 ## Electricité, Chauffage et electro-ménager
 
-Vous pouvez chauffer avec les plinthes, la thermopompe dans le salon, ou bien avec le poele. S'il fait plus de -25C, la thermopompe est le moyen de chauffage le plus efficace et le plus comfortable. S'il fait trop chaud, la thermopompe peut aussi réguler l'humidité et la température.
+Vous pouvez chauffer avec les plinthes, la thermopompe dans le salon, ou bien avec le foyer. S'il fait plus de -25C, la thermopompe est le moyen de chauffage le plus efficace et le plus confortable. S'il fait trop chaud, la thermopompe peut aussi réguler l'humidité et la température.
 
-Veuillez fermer porte et fenetres si vous utilisez le chauffage et/ou AC. Une alarme auditif sera émis régulièrement sinon. Pensons à l'environnement!
+Veuillez fermer porte et fenêtres si vous utilisez le chauffage et/ou AC. Une alarme auditive sera émis régulièrement sinon. Pensons à l'environnement!
 
-Les pastilles sont placés sous l'évier pour la lave-vaisselle. Mettre une pastille, ajuster la configuration selon votre préférence, fermez la porte, et appuyez sur "Start". Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
+Les pastilles sont placés sous l'évier pour le lave-vaisselle. Mettre une pastille, ajuster la configuration selon votre préférence, fermez la porte et appuyez sur "Start". Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
 
-Note: Dû à des conditions hors de notre contrôle, comme vents violents, tempêtes ou autres, les coupures d'électricité peuvent arriver 1 à 2 fois par année. Vous pouvez nous avertir. Ensuite, veuillez fermer portes et fenetres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. 
+Note: Dû à des conditions hors de notre contrôle, comme vents violents, tempêtes ou autres, les coupures d'électricité peuvent arriver une à deux fois par année. Vous pouvez nous avertir. Ensuite, veuillez fermer portes et fenêtres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. 
 
 ## Eau
 
