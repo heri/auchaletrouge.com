@@ -10,12 +10,12 @@ Nous fournissons:
 
 * chambres: toute la literie
 * à l'entrée : trousse de premier secours, fer à repasser, balayeuse, 
-* salon : foyer avec bois de chauffage, extincteur de feu, guestbook
+* salon : foyer avec bois de chauffage, chaise bébé, extincteur de feu, guestbook
 * terrasse et extérieur: BBQ, bois de chauffage (sous la gallerie)
 * salle de bains: serviette (1 par personne), papier toilette, sèche-cheuveux, plongeur (sous la vanité)
 
 Pour la cuisine, nous fournissons:
-* dans les armoires: sel, sucre et épices, casseroles et marmites, verres, tasses, plats et ustensiles de cuisine
+* dans les armoires: sel, sucre et épices, casseroles et marmites, verres, tasses, plats et ustensiles de cuisine pour cuire ou préparer des plats au four,
 * sopalin et torchons,
 * grille-pain, machine à café, bouillore, ensemble de fondue, cuiseur à riz,
 * sous l'évier: sacs pour ordure, recyclage, compost, pastilles lave-vaisselle
@@ -42,7 +42,7 @@ Veuillez fermer porte et fenetres si vous utilisez le chauffage et/ou AC. Une al
 
 Les pastilles sont placés sous l'évier pour la lave-vaisselle. Mettre une pastille, ajuster la configuration selon votre préférence, fermez la porte, et appuyez sur "Start". Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
 
-Note: Dû à des conditions hors de notre controle, comme vents violents, tempêtes ou autres, les coupures d'électricité peuvent arriver 1 à 2 fois par année. Vous pouvez nous avertir d'abord. Ensuite, veuillez fermer portes et fenetres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. 
+Note: Dû à des conditions hors de notre contrôle, comme vents violents, tempêtes ou autres, les coupures d'électricité peuvent arriver 1 à 2 fois par année. Vous pouvez nous avertir. Ensuite, veuillez fermer portes et fenetres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. 
 
 ## Eau
 
@@ -79,7 +79,7 @@ Règles:
 
 * Prendre une douche avant toute utilisation!
 * Pas de nourriture ou boissons. Si nous trouvons de la bière, reste de nourriture ou autre, un supplément de $250 vous sera facturé pour remplacer l'eau.
-* Fermez immédiatement le couvercle après utilisation
+* Fermez immédiatement le couvercle après utilisation !
 * Evitez d'utiliser plus de 20mn par session, pour éviter l'hyperthermie
 
 ## Guide Eté

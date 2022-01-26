@@ -20,7 +20,7 @@ La nuit venue, la vue sur le ciel et les étoiles est magique. Le plafond cathé
 
 Soyez confortable à l'intérieur avec un bon livre ou un jeu de société pour les nuits plus fraîches. Le bois est omniprésent, des poutres apparentes au poêle à bois traditionnel, donnant une ambiance chaleureuse à l'ensemble de la propriété. Profitez de nuits paisibles et sereines avec les oreillers moelleux et les lits moelleux. Plus tard, la cuisine bien équipée avec bar est un endroit confortable pour cuisiner et manger.
 
-Vos hôtes ont conçu Au Bonheur Chalet avec en tête pour votre bonheur. Construit à partir de bois local, faisant écho à l'histoire du Québec, la cabane bois rond s'efforce de reconnecter les invités avec la nature avec chaque détail pensé. Le nom "Au bonheur Chalet" symbolise l'histoire qui a conduit à sa création et les souvenirs heureux que nous espérons qu'il vous apportera.
+Vos hôtes ont conçu Au Bonheur Chalet avec en tête votre bonheur. Construit à partir de bois local, faisant écho à l'histoire du Québec, le chalet bois rond s'efforce de reconnecter les invités avec la nature avec chaque détail mûri. Le nom "Au bonheur Chalet" symbolise l'histoire qui a conduit à sa création et les souvenirs heureux que nous espérons qu'il vous apportera.
 
 {{<icon class="fa fa-image">}} Bord rivière rouge. Accès aux plages de sable fin, kayak, pêche, nage
 
