@@ -39,7 +39,9 @@ Avec votre code personnalisé:
 - Taper votre code
 - Appuyer sur ✔︎
 
-C'est ouvert! Félicitations, votre séjour au chalet commence 😊
+C'est ouvert! Félicitations, votre séjour au chalet commence 😊 
+
+Nous vous souhaitains un bon séjour, n'oubliez pas de lire [les règles](https://abchalet.com/#règles)
 
 Vous pouvez manuellement fermer la serrure de l'intérieur. De l'extérieur, vous pouvez fermer la serrure en tapant sur le bouton "Yale"
 

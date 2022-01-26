@@ -6,7 +6,7 @@ header_menu: true
 
 ## Satisfaction
 
-Si quelque chose n'est pas à votre goût ou si un problème survient lors de votre séjour, veuillez nous informer rapidement pour trouver une soution. Nous demandons aussi que vous nous informiez de tout accident ou dommages pour que nous nous assurions que tout soit en bon état.
+Si quelque chose n'est pas à votre goût ou si un problème survient lors de votre séjour, veuillez nous informer rapidement pour trouver une solution. Nous demandons aussi que vous nous informiez de tout accident ou dommages pour que nous nous assurions que tout soit en bon état.
 
 De la même manière, s'il y a quelque chose qui vous manque ou que vous ne trouvez pas, n'hésitez pas à communiquer avec nous pour qu'on puisse vous aider.
 
@@ -22,7 +22,7 @@ Notre personnel a reçu des consignes strictes de nouvelles méthodes de travail
 * rampes
 * désinfection de toute la literie.
 
-Nous aérons le chalet entre chaque location. L'air est échangé continuellement et un filtre du meme calibre que dans les hopitaux est mis en route pendant 5 hours, filtrant un volume d'air équivalent à 5 fois le volume du chalet.
+Nous aérons le chalet entre chaque location. L'air est échangé continuellement et un filtre du même calibre que dans les hôpitaux est mis en route pendant 5 hours, filtrant un volume d'air équivalent à 5 fois le volume du chalet.
 
 Un distributeur de gels désinfectants est à disposition à l’entrée. Des lingettes désinfectantes sont également fournies.
 
@@ -35,9 +35,9 @@ Le chalet a des standards stricts, dans une communauté où vit des familles et 
 Voici les règles:
 * pas de cigarette ou vaping à l'intérieur
 * pas de partys
-* pas de feu extérieur quand la température extérieur dépasse 30C (risque de feux sauvage)
+* pas de feu extérieur quand la température extérieure dépasse 30C (risque de feux sauvages)
 * pas de drogue
-* pas de nourriture ou boissons dans le spa. Si nous trouvons de la boisson ou des bouchons de bière/vin, $250 vous sera factué pour remplacement de l'eau
+* pas de nourriture ou boissons dans le spa. Si nous trouvons de la boisson ou des bouchons de bière/vin, $250 vous sera facturé pour remplacement de l'eau
 * pas de remboursements
 
 ## Animaux domestiques
@@ -47,20 +47,20 @@ Nous acceptons un animal domestique, petit chien ou chat par groupe. Voici les r
 * l'animal doit faire TOUT ses besoins à l'extérieur. Après, ramasser et mettre le sac dans le bac noir
 * l'animal ne doit JAMAIS être sur sofa, chaises ou lits
 
-Si vous n'etes pas sur que votre animal ne peut suivre ces règles, nous ne pouvons malheureusement l'accepter.
+Si vous n'etes pas sûr que votre animal ne peut suivre ces règles, nous ne pouvons malheureusement l'accepter.
 
 ## Poubelles
 
-Comme d'autres villes dans les Laurentides, Rivière Rouge a un contrôle strict sur les poubelles. Si vous venez d'une ville comme Montréal ou Ottawa, vous serez surpris d'apprendre que la quantité d'ordure par addresse est limitée! Nous demandons donc votre collaboration, en apportant et en créant le moins d'ordures possible (pensez à la nature), et aussi en faisant le tri. Il y a le recyclage, compost et ordures. On met tout matière organique au compost, y compris papier et cartons ainsi que déchets de jardin. On met au recyclage tout plastique, verre non souillés. Tout le reste va aux ordures
+Comme d'autres villes dans les Laurentides, Rivière Rouge a un contrôle strict sur les poubelles. Si vous venez d'une ville comme Montréal ou Ottawa, vous serez surpris d'apprendre que la quantité d'ordure par adresse est limitée! Nous demandons donc votre collaboration, en apportant et en créant le moins d'ordures possible (pensez à la nature), et aussi en faisant le tri. Il y a le recyclage, compost et ordures. On met toute matière organique au compost, y compris papier et cartons ainsi que déchets de jardin. On met au recyclage tout plastique, verre non souillés. Tout le reste va aux ordures
 
-N'essayez pas de contourner les règles, parce que nous risquons des amendes. Si vous avez un doute, vous pouvez nous envoyer un texto avec image pour que nous vérifions votre tri avant de le mettre aux poubelles. S'il y a une amende, ce sera soustrait de votre depot de securité même si la collecte est fait après votre départ!
+N'essayez pas de contourner les règles, parce que nous risquons des amendes. Si vous avez un doute, vous pouvez nous envoyer un texto avec image pour que nous vérifions votre tri avant de le mettre aux poubelles. S'il y a une amende, ce sera soustrait de votre dépôt de securité même si la collecte est faite après votre départ!
 
 Nous faisons très attention qu'il reste toujours de la place dans le bac de recyclage, compost et ordures. Si vous avez trop d'ordures, vous avez deux choix:
 
 * vous laissez le surplus qui ne rentre pas à la porte et vous nous envoyez un texto. Un $60+tx de frais sera facturé
 * vous emportez le surplus avec vous
 
-La municipalité fait la [collecte des ordures](https://www.riviere-rouge.ca/calendrier-des-collectes) seulement une fois par mois, et les autres collectes 2 fois par mois. Donc c'est extrêmement important de faire attention aux poubelles.
+La municipalité fait la [collecte des ordures](https://www.riviere-rouge.ca/calendrier-des-collectes) seulement une fois par mois, et les autres collectes deux fois par mois. Donc c'est extrêmement important de faire attention aux poubelles.
 
 # Technologie
 
@@ -68,6 +68,6 @@ Le chalet est intelligent. Il y a beaucoup de technologie pour rendre votre séj
 
 Vous pouvez trouver différents objets électroniques dans le chalet. Ceci inclut routeur WiFi, réception Internet (satellite), serrures électroniques, caméras extérieurs, smart hubs, capteurs de température et d'humidité, filtre à air etc.
 
-Si vous déconnectiez une de ces pièces, la serrure électronique peut s'arrêtez de fonctionner, pareil pour le chauffage ou tout autre équipement vital. Les invités ne sont pas autorisés à déconnecter aucun appareil sans notre permission écrite.
+Si vous déconnectiez une de ces pièces, la serrure électronique peut s'arrêter de fonctionner, pareil pour le chauffage ou tout autre équipement vital. Les invités ne sont pas autorisés à déconnecter aucun appareil sans notre permission écrite.
 
 [Veuillez noter qu'il n'y a pas de caméras intérieurs]

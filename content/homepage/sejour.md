@@ -56,17 +56,17 @@ Pour partir un feu, soyez sûr d'avoir du bois sec et du bon bois d'allumage. Me
 
 ## Salle familiale
 
-La salle du bas a été concu pour vous. Connectez à la TV intelligente avec votre téléphone. Vous pouvez utiliser Amazon TV 
+La salle du bas a été conçu pour vous. Connectez à la TV intelligente avec votre téléphone. Vous pouvez utiliser Fire TV 
 
-On a une petite sélection de livres qui invitent à la découverte. Si vous en prenez un, laissez en un autre. Bonne lecture! On a aussi des DVDs qui compte parmi nos films favoris, ainsi que des jeux pour petits et grands.
+On a une petite sélection de livres qui invitent à la découverte. Si vous en prenez un, laissez-en un autre. Bonne lecture! On a aussi des DVDs qui compte parmi nos films favoris, ainsi que des jeux pour petits et grands.
 
-Il y a un sofa convertible taille queen dans cette salle familiale. Si vous désirez l'utiliser, une couverture est disponible mais nous recommendans d'apportez de la literie (draps ou autre).
+Il y a un sofa convertible taille queen dans cette salle familiale. Si vous désirez l'utiliser, une couverture est disponible mais nous recommendons d'apporter de la literie (draps ou autre).
 
 ## BBQ
 
 * Les outils de BBQ sont sur le côté. Outils complémentaires disponibles dans la cuisine.
 * Vous êtes responsable de nettoyer le BBQ après utilisation, comme vous l'avez trouvé
-* Si un bonbonne de gas est vide, veuillez nous avertir. Un autre bonbonne est disponible sur le coté.
+* Si une bonbonne de gas est vide, veuillez nous avertir. Une autre bonbonne est disponible sur le côté.
 * Fermez le couvercle après utilisation
 * Si vous avez des difficultés pour utiliser, veuillez nous contacter
 * Veuillez tenir hors de portée des enfants en tout temps. Ils peuvent se brûler et peuvent aussi jouer avec le feu. Un départ de feu serait catastrophique
@@ -77,7 +77,7 @@ Bon appétit!
 
 Règles:
 
-* Prendre une douche avant toute utilisation!
+* Prenez une douche avant toute utilisation!
 * Pas de nourriture ou boissons. Si nous trouvons de la bière, reste de nourriture ou autre, un supplément de $250 vous sera facturé pour remplacer l'eau.
 * Fermez immédiatement le couvercle après utilisation !
 * Evitez d'utiliser plus de 20mn par session, pour éviter l'hyperthermie
@@ -104,7 +104,7 @@ Règles:
 
 ## Guide Hiver
 
-* Traineau a chien, canoe camping: [Aventure quatre saisons](https://goo.gl/maps/ANHJDqDzy3Mr7PS27)  ⭐️⭐️⭐️⭐️⭐️
+* Traineau à chien, canoe camping: [Aventure quatre saisons](https://goo.gl/maps/ANHJDqDzy3Mr7PS27)  ⭐️⭐️⭐️⭐️⭐️
 * [Aventures Skidoo location](https://www.cana-dooaventures.com/)  ⭐️⭐️⭐️⭐️⭐️
 * [Expedition wolf](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/outdoor-and-adventure/expedition-wolf-10483573)   ⭐️⭐️⭐️⭐️⭐️
 * [Club de ski des six cantons](https://goo.gl/maps/8mPxwZ5siEuBU7sx5): raquette, cross-country ski  ⭐️⭐️⭐️⭐️⭐️
