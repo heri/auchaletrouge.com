@@ -1,7 +1,7 @@
 # default config
 baseURL = "https://abchalet.com"
 languageCode = "en-us"
-title = "ABChalet"
+title = "ABChalet - Chalet Bois rond au bord de la Rivière Rouge"
 theme = "hugo-scroll"
 summaryLength = "10"
 paginate = 6
