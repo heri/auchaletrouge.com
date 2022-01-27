@@ -32,7 +32,7 @@ Note : le signal peut être interrompu en cas de grosses tempêtes.
 
 ## Médias Sociaux
 
-Si vous aimez votre séjour, n'oubliez pas de voir [l'offre médiaux sociaux](https://abchalet.com/#offre)
+Si le chalet vous inspire, n'oubliez pas de voir [l'offre médiaux sociaux](https://abchalet.com/#offre)
 
 ## Electricité, Chauffage et electro-ménager
 
@@ -46,7 +46,7 @@ Note: Dû à des conditions hors de notre contrôle, comme vents violents, temp�
 
 ## Eau
 
-Le chalet est alimenté par un puits de surface tout proche de la Rivière. L'eau a des particules de fer, de couleur rouge, d'où le nom de la Rivière Rouge. Nous avons un système de filtre au-sol et nous avons testé l'eau, qui est potable. Néanmoins, il se peut que vous trouviez que l'eau ait une couleur orangée ou rouge dû à ces particules de fer.
+Le chalet est alimenté par un puits de surface tout proche de la Rivière. L'eau a des particules de fer, de couleur rouge, d'où le nom de la Rivière Rouge. Nous avons un système de filtre au-sol et nous avons testé l'eau, qui est potable. Néanmoins, il se peut que vous trouviez que l'eau ait une couleur orangée ou rouge dûe à ces particules de fer.
 
 Note: Dû à des conditions hors de notre contrôle, comme gel, crues, ou sécheresse, l'eau peut manquer.
 
@@ -58,7 +58,7 @@ Pour partir un feu, soyez sûr d'avoir du bois sec et du bon bois d'allumage. Me
 
 La salle du bas a été conçu pour vous. Connectez à la TV intelligente avec votre téléphone. Vous pouvez utiliser Fire TV 
 
-On a une petite sélection de livres qui invitent à la découverte. Si vous en prenez un, laissez-en un autre. Bonne lecture! On a aussi des DVDs qui compte parmi nos films favoris, ainsi que des jeux pour petits et grands.
+On a une petite sélection de livres qui invitent à la découverte. Si vous prenez un livre, laissez-en un autre. Bonne lecture! On a aussi des DVDs qui compte parmi nos films favoris, ainsi que des jeux pour petits et grands.
 
 Il y a un sofa convertible taille queen dans cette salle familiale. Si vous désirez l'utiliser, une couverture est disponible mais nous recommendons d'apporter de la literie (draps ou autre).
 
@@ -66,10 +66,10 @@ Il y a un sofa convertible taille queen dans cette salle familiale. Si vous dés
 
 * Les outils de BBQ sont sur le côté. Outils complémentaires disponibles dans la cuisine.
 * Vous êtes responsable de nettoyer le BBQ après utilisation, comme vous l'avez trouvé
-* Si une bonbonne de gas est vide, veuillez nous avertir. Une autre bonbonne est disponible sur le côté.
+* Si une bonbonne de gas est vide, veuillez nous avertir. Une autre est disponible sur le côté.
 * Fermez le couvercle après utilisation
-* Si vous avez des difficultés pour utiliser, veuillez nous contacter
-* Veuillez tenir hors de portée des enfants en tout temps. Ils peuvent se brûler et peuvent aussi jouer avec le feu. Un départ de feu serait catastrophique
+* Si vous avez des difficultés, veuillez nous contacter
+* Veuillez tenir hors de portée des enfants en tout temps. Ils peuvent se brûler et peuvent aussi jouer avec le feu !
 
 Bon appétit!
 
@@ -81,6 +81,13 @@ Règles:
 * Pas de nourriture ou boissons. Si nous trouvons de la bière, reste de nourriture ou autre, un supplément de $250 vous sera facturé pour remplacer l'eau.
 * Fermez immédiatement le couvercle après utilisation !
 * Evitez d'utiliser plus de 20mn par session, pour éviter l'hyperthermie
+
+## Kayak
+
+Un kayak 1 place et un kayak 2 places se trouvent au chalet, avec rames et gilets de sauvetage.
+
+* Prenez seulement les kayaks si vous êtes sûr de pouvoir revenir. Si vous n'êtes pas sûr, ayez quelqu'un du groupe qui peut vous aider au besoin  
+* Ne pas écraser la végétation et les jeunes arbres quand vous déplacez les kayaks
 
 ## Guide Eté
 
