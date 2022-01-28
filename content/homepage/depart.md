@@ -6,13 +6,13 @@ header_menu: true
 
 Votre code se désactive à 11 heures du matin.
 
-Si vous voulez partir après, nous ferons de notre mieux, mais nous ne pouvons pas faire de promesses pour vous garantir un accès après.
+Si vous voulez partir après, nous ferons de notre mieux, mais nous ne pouvons pas faire de promesses pour vous garantir un accès.
 
 ## Liste de départ
 
 Nous nettoyons entièrement le chalet entre les séjours. Vous n'avez pas besoin d'enlever la literie, de les nettoyer ou bien de nettoyer le comptoir de la cuisine.
 
-Quel doit être l'état du chalet quand vous partez? Une règle de base est que si votre maman irait voir le chalet avant votre départ, vous ne devez pas être embarrassé(e)
+Quel doit être l'état du chalet quand vous partez? Une règle de base est que si votre maman verrait le chalet avant votre départ, vous ne devez pas être embarrassé(e) :)
 
 Bien que on ne s'attend pas un nettoyage approfondi, soyez raisonnable. Mettez la vaisselle et les casseroles dans le lave-vaisselle. Ne laissez pas de la vaisselle sale ou des ordures un peu partout. Nettoyez les dégats et petits accidents.
 

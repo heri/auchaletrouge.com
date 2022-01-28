@@ -55,7 +55,7 @@ Comme d'autres villes dans les Laurentides, Rivière Rouge a un contrôle strict
 
 N'essayez pas de contourner les règles, parce que nous risquons des amendes. Si vous avez un doute, vous pouvez nous envoyer un texto avec image pour que nous vérifions votre tri avant de le mettre aux poubelles. S'il y a une amende, ce sera soustrait de votre dépôt de securité même si la collecte est faite après votre départ!
 
-Nous faisons très attention qu'il reste toujours de la place dans le bac de recyclage, compost et ordures. Si vous avez trop d'ordures, vous avez deux choix:
+Nous faisons attention qu'il reste toujours de la place dans le bac de recyclage, compost et ordures. Si vous avez trop d'ordures, vous avez deux choix:
 
 * vous laissez le surplus qui ne rentre pas à la porte et vous nous envoyez un texto. Un $60+tx de frais sera facturé
 * vous emportez le surplus avec vous

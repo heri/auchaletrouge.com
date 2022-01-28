@@ -30,7 +30,7 @@ La cour a quatre places de stationnement. Il peut avoir moins d'espace à cause 
 
 ## Code de la porte
 
-Le chalet est équipé d'une serrure électronique. Vous pouvez arriver ou partir à n'importe quelle heure sans devoir attendre quelqu'un pour des clés.
+Le chalet est équipé d'une serrure électronique. Vous pouvez arriver a partir à n'importe quelle heure sans devoir attendre quelqu'un pour des clés.
 
 Votre code est actif à partir de 4h de l'après-midi (16h00). Si vous voulez entrer avant, nous ferons de notre mieux, mais nous ne pouvons pas faire de promesses pour vous garantir un accès avant. Votre code personnalisé est le suivant:
 
@@ -46,6 +46,6 @@ Avec votre code personnalisé:
 
 C'est ouvert! Votre séjour au chalet commence 😊 N'oubliez pas de partager [les règles](https://abchalet.com/#règles) avec les membres du groupe
 
-Vous pouvez manuellement fermer la serrure de l'intérieur. De l'extérieur, vous pouvez fermer la serrure en tapant sur le bouton "Yale"
+Vous pouvez manuellement fermer la serrure de l'intérieur. De l'extérieur, vous pouvez fermer en tapant sur le bouton "Yale"
 
 Important: si vous n'arrivez pas à déverrouiller, soyez sûr de taper sur le bouton "Yale" avant de rentrer leur code

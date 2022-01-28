@@ -36,7 +36,7 @@ Si le chalet vous inspire, n'oubliez pas de voir [l'offre médiaux sociaux](http
 
 ## Electricité, Chauffage et electro-ménager
 
-Vous pouvez chauffer avec les plinthes, la thermopompe dans le salon, ou bien avec le foyer. S'il fait plus de -25C, la thermopompe est le moyen de chauffage le plus efficace et le plus confortable. S'il fait trop chaud, la thermopompe peut aussi réguler l'humidité et la température.
+Vous pouvez chauffer avec les plinthes, la thermopompe dans le salon, ou bien avec le foyer. S'il fait plus de -25C, la thermopompe est le moyen de chauffage le plus efficace et le plus confortable. S'il fait chaud, la thermopompe peut aussi réguler l'humidité et la température.
 
 Veuillez fermer porte et fenêtres si vous utilisez le chauffage et/ou AC. Une alarme auditive sera émis régulièrement sinon. Pensons à l'environnement!
 
