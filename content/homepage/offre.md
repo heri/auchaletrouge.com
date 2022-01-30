@@ -1,6 +1,6 @@
 ---
 title: "Offre"
-weight: 2
+weight: 8
 header_menu: true
 ---
 Nous proposons une offre aux doué(e)s des médias sociaux, pour rendre le chalet plus accessible:
