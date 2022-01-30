@@ -12,7 +12,7 @@ Nous fournissons:
 * à l'entrée : trousse de premier secours, fer à repasser, balayeuse, 
 * salon : foyer avec bois de chauffage, chaise bébé, extincteur de feu, guestbook
 * terrasse et extérieur: BBQ, bois de chauffage (sous la terrasse)
-* salle de bains: serviette (1 par personne), papier toilette, sèche-cheuveux, plongeur (sous la vanité)
+* salle de bains: serviette (un par personne), papier toilette, sèche-cheuveux, plongeur (sous la vanité)
 
 Pour la cuisine, nous fournissons:
 * dans les armoires: sel, sucre et épices, casseroles et marmites, verres, tasses, plats et ustensiles de cuisine pour cuire ou préparer des plats au four,
@@ -20,7 +20,7 @@ Pour la cuisine, nous fournissons:
 * grille-pain, machine à café, bouilloire, ensemble de fondue, cuiseur à riz,
 * sous l'évier: sacs pour ordure, recyclage, compost, pastilles lave-vaisselle
 
-Si vous avez besoin de plus, vous pouvez facilement les remplacer en allant à [une des épiceries](https://abchalet.com/#epicerie) listées plus bas
+Si vous avez besoin de plus, vous pouvez facilement les remplacer en allant à [une des épiceries](https://abchalet.com/#epicerie) listées plus bas.
 
 ## WiFi
 
@@ -30,9 +30,7 @@ Mot de passe: <span id="template-wificode">Faites une réservation pour voir vot
 
 Note : le signal peut être interrompu en cas de grosses tempêtes.
 
-## Médias Sociaux
-
-Si le chalet vous inspire, n'oubliez pas de voir [l'offre médiaux sociaux](https://abchalet.com/#offre)
+Si le chalet vous inspire, parlez du chalet sur [les médiaux sociaux](https://abchalet.com/#offre)
 
 ## Electricité, Chauffage et electro-ménager
 
@@ -46,7 +44,7 @@ Note: Dû à des conditions hors de notre contrôle, comme vents violents, temp�
 
 ## Eau
 
-Le chalet est alimenté par un puits de surface tout proche de la Rivière. L'eau a des particules de fer, de couleur rouge, d'où le nom de la Rivière Rouge. Nous avons un système de filtre au-sol et nous avons testé l'eau, qui est potable. Néanmoins, il se peut que vous trouviez que l'eau ait une couleur orangée ou rouge dûe à ces particules de fer.
+Le chalet est alimenté par un puits de surface. L'eau a des particules de fer, de couleur rouge, d'où le nom de la Rivière Rouge. Nous avons un système de filtre au- sous-sol et nous avons testé l'eau, qui est potable. Néanmoins, il se peut que l'eau ait une couleur orangée ou rouge dûe à ces particules de fer.
 
 Note: Dû à des conditions hors de notre contrôle, comme gel, crues, ou sécheresse, l'eau peut manquer.
 
