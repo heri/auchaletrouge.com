@@ -18,16 +18,14 @@ Bien que on ne s'attend pas un nettoyage approfondi, soyez raisonnable. Mettez l
 
 Pour votre départ:
 
-* Signer le livre d'or
-* Voir si vous n'avez rien oublié autour du spa, ustensiles, verres, mégots, et fermer le couvercle du spa
-* Fermer portes et fenêtres
-* S'assurer que tous les robinets sont fermés
-* En hiver, mettre tout le chauffage à environ 15C
-* Eteindre les lumières
-* S'assurer que la TV, Air Conditionné/Pompe, Foyer et BBQ sont éteints
-* S'assurer que le cycle lave-vaisselle a démarré. Sinon l'équipe de nettoyage devra la vaiselle à la main
-* Vérifier une fois, deux fois l'intérieur ET extérieur pour être sûr que vous n'avez rien oublié : chargeurs, ordinateurs, bijoux, passeports, portefeuille, clés, maillots de bains, jouets. Prenez avec vous la nourriture !
-* Fermer la porte principale derrière vous et peser sur le bouton "Yale" pour barrer
+* Signez le livre d'or
+* Voyez si vous n'avez rien oublié autour du spa, ustensiles, verres, mégots, et fermez le couvercle du spa
+* Fermez portes et fenêtres
+* En hiver, mettez tout le chauffage à environ 15C
+* Assurez-vous que les lumières, la TV, Air Conditionné/Pompe, Foyer et BBQ sont éteints, que les robinets sont fermés,
+* Assurez-vous que le cycle lave-vaisselle ait démarré. Sinon l'équipe de nettoyage devra laver la vaiselle à la main
+* Vérifiez à l'intérieur ET extérieur pour être sûr que vous n'avez rien oublié : chargeurs, ordinateurs, bijoux, passeports, portefeuille, clés, maillots de bains, jouets. Prenez avec vous la nourriture !
+* Fermez la porte principale derrière vous et pesez sur le bouton "Yale" pour barrer
 
 Nous vous souhaitons un bon retour à la maison 😊
 

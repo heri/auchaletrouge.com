@@ -38,7 +38,7 @@ Vous pouvez chauffer avec les plinthes, la thermopompe dans le salon, ou bien av
 
 Veuillez fermer porte et fenêtres si vous utilisez le chauffage et/ou AC. Une alarme auditive sera émis régulièrement sinon. Pensons à l'environnement!
 
-Les pastilles sont placés sous l'évier pour le lave-vaisselle. Mettre une pastille, ajuster la configuration selon votre préférence, fermez la porte et appuyez sur "Start". Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
+Les pastilles sont placés sous l'évier pour le lave-vaisselle. Mettez une pastille, ajustez la configuration selon votre préférence, fermez la porte et appuyez sur "Start". Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
 
 Note: Dû à des conditions hors de notre contrôle, comme vents violents, tempêtes ou autres, les coupures d'électricité peuvent arriver une à deux fois par année. Vous pouvez nous avertir. Ensuite, veuillez fermer portes et fenêtres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. 
 

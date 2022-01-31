@@ -15,7 +15,7 @@ En été, outre vos effets personnels, apportez nécessaire de plage, gougounes 
 
 Le thé, sel sucre et épices ainsi que tous les équipements de cuisine sont fournis. N'oubliez pas les ingrédients!
 
-Rivière-Rouge a un [contrôle strict sur les poubelles](https://abchalet.com/#poubelles), donc emporter seulement le minimum. Pas d'emballages extra, ou du jetable svp, ou bien soyez prêts à les emporter avec vous au retour.
+Rivière-Rouge a un [contrôle strict sur les poubelles](https://abchalet.com/#poubelles), donc emportez seulement le minimum. Pas d'emballages extra, ou du jetable svp, ou bien soyez prêts à les emporter avec vous au retour.
 
 ## S'y rendre
 
@@ -40,9 +40,9 @@ Votre code est actif à partir de 4h de l'après-midi. Si vous voulez entrer ava
 
 Avec votre code personnalisé:
 
-- Appuyer sur Yale
-- Taper votre code
-- Appuyer sur ✔︎
+- Appuyez sur Yale
+- Tapez votre code
+- Appuyez sur ✔︎
 
 C'est ouvert! Votre séjour au chalet commence 😊 N'oubliez pas de voir [les règles](https://abchalet.com/#règles) avec les membres du groupe.
 
