@@ -32,7 +32,7 @@ La cour a quatre places de stationnement. Il peut avoir moins d'espace à cause 
 
 Le chalet est équipé d'une serrure électronique. Vous pouvez arriver a partir à n'importe quel moment sans devoir attendre quelqu'un pour recevoir des clés.
 
-Votre code est actif à partir de 4h de l'après-midi. Si vous voulez entrer avant, nous ferons de notre mieux, mais nous ne pouvons pas faire de promesses pour vous garantir un accès avant. Votre code personnalisé est le suivant:
+Votre code personalisé est actif à partir de 4h de l'après-midi. Si vous voulez entrer avant, nous ferons de notre mieux, mais nous ne pouvons pas faire de promesses pour vous garantir un accès avant. Votre code personnalisé est le suivant:
 
 <div id="template-guestcode">Faites une réservation pour voir votre code personnalisé</div>
 
