@@ -26,17 +26,21 @@ Si vous avez besoin de plus, vous pouvez facilement les remplacer en allant à [
 
 Network : abchalet
 
-Mot de passe: <span id="template-wificode">Faites une réservation pour voir votre le code WiFi</span>
+Mot de passe: <span id="template-wificode">Faites une réservation pour voir le code WiFi</span>
 
 Note : le signal peut être interrompu en cas de grosses tempêtes.
 
 Si le chalet vous inspire, parlez du chalet sur [les médiaux sociaux](https://abchalet.com/#offre)
 
-## Electricité, Chauffage et electro-ménager
+## Electricité & Appareils
 
-Vous pouvez chauffer avec les plinthes, la thermopompe dans le salon, ou bien avec le foyer. S'il fait plus de -25C, la thermopompe est le moyen de chauffage le plus efficace et le plus confortable. S'il fait chaud, la thermopompe peut aussi réguler l'humidité et la température.
+Le chauffage se fait:
 
-Veuillez fermer porte et fenêtres si vous utilisez le chauffage et/ou AC. Une alarme auditive sera émis régulièrement sinon. Pensons à l'environnement!
+* avec la thermopome s'il fait plus de -25C
+* les plinthes
+* le foyer donne aussi une belle chaleur agréable.
+
+Veuillez fermer porte et fenêtres si vous utilisez le chauffage et/ou AC. Pensons à l'environnement!
 
 Les pastilles sont placés sous l'évier pour le lave-vaisselle. Mettez une pastille, ajustez la configuration selon votre préférence, fermez la porte et appuyez sur "Start". Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
 
@@ -50,15 +54,15 @@ Note: Dû à des conditions hors de notre contrôle, comme gel, crues, ou séche
 
 ## Foyer
 
-Pour partir un feu, soyez sûr d'avoir du bois sec et du bon bois d'allumage. Mettez d'abord papiers et bois d'allumage, en faisant attention qu'il ait une aération d'air suffisant. Quand le feu prend, vous pouvez ajouter petit à petit du bois plus gros. Youtube a aussi [des guides intéressants](https://www.youtube.com/watch?v=rs8Bwk8vcqs)
+Pour partir un feu, soyez sûr d'avoir du bois sec et du bon bois d'allumage. Mettez d'abord papiers et bois d'allumage, en faisant à une aération d'air suffisante. Youtube a aussi [des guides intéressants](https://www.youtube.com/watch?v=rs8Bwk8vcqs)
 
 ## Salle familiale
 
-La salle du bas a été conçu pour vous. Connectez à la TV intelligente avec votre téléphone. Vous pouvez utiliser Fire TV 
+La salle du bas a été conçu pour de bels moments en famille. Connectez à la TV intelligente avec votre téléphone. Vous pouvez utiliser Fire TV 
 
 On a une petite sélection de livres qui invitent à la découverte. Si vous prenez un livre, laissez-en un autre. Bonne lecture! On a aussi des DVDs qui compte parmi nos films favoris, ainsi que des jeux pour petits et grands.
 
-Il y a un sofa convertible taille queen dans cette salle familiale. Si vous désirez l'utiliser, une couverture est disponible mais nous recommendons d'apporter de la literie (draps ou autre).
+Il y a un sofa convertible de grande taille dans cette salle. Si vous désirez l'utiliser, une couverture est disponible mais nous recommendons d'apporter de la literie (draps ou autre).
 
 ## BBQ
 
