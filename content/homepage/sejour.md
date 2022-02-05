@@ -10,7 +10,7 @@ Nous fournissons:
 
 * chambres: toute la literie
 * à l'entrée : trousse de premier secours, fer à repasser, balayeuse, 
-* salon : foyer avec bois de chauffage, chaise bébé, extincteur de feu, guestbook
+* salon : Poêle avec bois de chauffage, chaise bébé, extincteur de feu, guestbook
 * terrasse et extérieur: BBQ, bois de chauffage (sous la terrasse)
 * salle de bains: serviette (un par personne), papier toilette, sèche-cheuveux, plongeur (sous la vanité)
 
@@ -38,7 +38,7 @@ Le chauffage se fait:
 
 * avec la thermopome s'il fait plus de -25C
 * les plinthes
-* le foyer donne aussi une belle chaleur agréable.
+* le Poêle au bois donne une chaleur agréable.
 
 Veuillez fermer porte et fenêtres si vous utilisez le chauffage et/ou AC. Pensons à l'environnement!
 
@@ -52,7 +52,7 @@ Le chalet est alimenté par un puits de surface. L'eau a des particules de fer, 
 
 Note: Dû à des conditions hors de notre contrôle, comme gel, crues, ou sécheresse, l'eau peut manquer.
 
-## Foyer
+## Poêle au bois
 
 Pour partir un feu, soyez sûr d'avoir du bois sec et du bon bois d'allumage. Mettez d'abord papiers et bois d'allumage, en faisant à une aération d'air suffisante. Youtube a aussi [des guides intéressants](https://www.youtube.com/watch?v=rs8Bwk8vcqs)
 
