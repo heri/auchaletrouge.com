@@ -26,17 +26,17 @@ Nous aérons le chalet entre chaque location. L'air est échangé continuellemen
 
 Un distributeur de gels désinfectants est à disposition à l’entrée. Des lingettes désinfectantes sont également fournies.
 
-Nous demandons aussi une garantie que chaque invité suit à la lettre les exigences de la santé publique.
+Nous demandons aussi une garantie que chaque invité suit les exigences de la santé publique.
 
 ## Règles
 
 Le chalet a des standards stricts, dans une communauté où vit des familles et des professionnels. Nous demandons que vous traitiez le chalet et aussi les personnes que vous rencontrez comme si c'était votre maison et vos voisins.
 
 Voici les règles:
-* pas de cigarette ou vaping à l'intérieur
-* pas de partys
-* pas de feu extérieur quand la température extérieure dépasse 30C (risque de feux sauvages)
-* pas de drogue
+* on ne fume pas à l'intérieur,
+* pas de fêtes ou événements,
+* pas de feu extérieur lors des risques d'incendie ([Consulter la carte SOPFEU](https://sopfeu.qc.ca/cartes/))
+* pas de substances illégales, à l'intérieur ou extérieur,
 * pas de nourriture ou boissons dans le spa. Si nous trouvons de la boisson ou des bouchons de bière/vin, $250 vous sera facturé pour remplacement de l'eau
 * pas de remboursements
 
@@ -67,6 +67,8 @@ La municipalité fait la [collecte des ordures](https://www.riviere-rouge.ca/cal
 Le chalet est intelligent. Il y a beaucoup de technologie pour rendre votre séjour confortable et pratique.
 
 Vous pouvez trouver différents objets électroniques dans le chalet. Ceci inclut routeur WiFi, réception Internet (satellite), serrures électroniques, caméras extérieurs, smart hubs, capteurs de température et d'humidité, filtre à air etc.
+
+![electronique](images/electronic.jpg)
 
 Si vous déconnectiez une de ces pièces, la serrure électronique peut s'arrêter de fonctionner, pareil pour le chauffage ou tout autre équipement vital. Les invités ne sont pas autorisés à déconnecter aucun appareil sans notre permission écrite.
 
