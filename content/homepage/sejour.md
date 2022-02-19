@@ -117,6 +117,7 @@ Un kayak 1 place et un kayak 2 places se trouvent au chalet, avec rames et gilet
 * [Aventures Skidoo location](https://www.cana-dooaventures.com/)  ⭐️⭐️⭐️⭐️⭐️
 * [Expedition wolf](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/outdoor-and-adventure/expedition-wolf-10483573)   ⭐️⭐️⭐️⭐️⭐️
 * [Club de ski des six cantons](https://goo.gl/maps/8mPxwZ5siEuBU7sx5): raquette, cross-country ski  ⭐️⭐️⭐️⭐️⭐️
+* Motoneige, Tourisme d'aventure [Outdoor Logistik](https://www.outdoorlogistik.com) 
 * [Ski hors piste rouge manawain](https://goo.gl/maps/6TatHsVxBPuqnJx29)  ⭐️⭐️⭐️⭐️
 * [Pêche sur glace, Parc regional Kamiaka](https://goo.gl/maps/VHP2Jy3GTdNto4Gq6)  ⭐️⭐️⭐️⭐️
 * [Expedition Hautes Laurentides](https://goo.gl/maps/6Y2egLSmHN9zdzDR7),
