@@ -22,7 +22,7 @@ Notre personnel a reçu des consignes strictes de nouvelles méthodes de travail
 * rampes
 * désinfection de toute la literie.
 
-Nous aérons le chalet entre chaque location. L'air est échangé continuellement et un filtre du même calibre que dans les hôpitaux est mis en route pendant 5 hours, filtrant un volume d'air équivalent à 5 fois le volume du chalet.
+Nous aérons le chalet entre chaque location. L'air est échangé continuellement et un filtre du même calibre que dans les hôpitaux est mis en route pendant 5 heures, filtrant un volume d'air équivalent à 5 fois le volume du chalet.
 
 Un distributeur de gels désinfectants est à disposition à l’entrée. Des lingettes désinfectantes sont également fournies.
 
@@ -43,11 +43,9 @@ Voici les règles:
 ## Animaux domestiques
 
 Nous acceptons un animal domestique, petit chien ou chat par groupe. Voici les règles:
-* l'animal doit être en tout temps accompagné, intérieur ou extérieur. Par exemple, si vous devez partir en randonnée, il ne faut pas laisser le chien seul au chalet.
-* l'animal doit faire TOUT ses besoins à l'extérieur. Après, ramasser et mettre le sac dans le bac noir
-* l'animal ne doit JAMAIS être sur sofa, chaises ou lits
-
-Si vous n'etes pas sûr que votre animal ne peut suivre ces règles, nous ne pouvons malheureusement l'accepter.
+* doit être en tout temps accompagné, intérieur ou extérieur. Par exemple, si vous devez partir en randonnée, il ne faut pas laisser le chien seul au chalet.
+* doit faire TOUT ses besoins à l'extérieur. Après, ramasser et mettre le sac dans le bac noir
+* ne pas être sur sofa, chaises ou lits. Une exception peut être faite à cette dernière règle, dépendemment du type de chien et aussi contre un forfait de nettoyage supplémentaire.
 
 ## Poubelles
 
