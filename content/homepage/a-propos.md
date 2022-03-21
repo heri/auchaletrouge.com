@@ -22,7 +22,6 @@ Soyez confortable à l'intérieur avec un bon livre ou un jeu de société pour 
 
 {{< gallery >}}
   {{< figure src="images/1-gallery.jpg" caption="escapade été">}}
-  {{< figure src="images/2-gallery.jpg" caption="riviere rouge canoe, kayak, plage" >}}
   {{< figure src="images/3-gallery.jpg" caption="du bon temps près de la plage" >}}
   {{< figure src="images/4-gallery.jpg" caption="chalet bois rond laurentides" >}}
 {{< /gallery >}}
