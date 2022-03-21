@@ -20,6 +20,13 @@ La nuit venue, la vue sur le ciel et les étoiles est magique. Le plafond cathé
 
 Soyez confortable à l'intérieur avec un bon livre ou un jeu de société pour les nuits plus fraîches. Le bois est omniprésent, des poutres apparentes au poêle à bois traditionnel, donnant une ambiance chaleureuse à l'ensemble de la propriété. Profitez de nuits paisibles et sereines avec les oreillers et lits moelleux. Plus tard, la cuisine bien équipée avec bar est un endroit confortable pour cuisiner et manger.
 
+{{< gallery >}}
+  {{< figure src="images/1-gallery.jpg" caption="summer getaway">}}
+  {{< figure src="images/3-gallery.jpg" caption="riviere rouge canoe, kayak, plage" >}}
+  {{< figure src="images/4-gallery.jpg" caption="du bon temps près de la plage" >}}
+  {{< figure src="images/5-gallery.jpg" caption="chalet bois rond laurentides" >}}
+{{< /gallery >}}
+
 Vos hôtes ont conçu Au Bonheur Chalet avec en tête votre bonheur. Construit à partir de bois local, faisant écho à l'histoire du Québec, le chalet bois rond vous reconnecte avec la nature avec chaque détail mûri. Le nom "Au bonheur Chalet" symbolise l'histoire qui a conduit à sa création et les souvenirs heureux que nous espérions qu'il vous apportera.
 
 {{<icon class="fa fa-image">}} Bord rivière rouge. Accès aux plages de sable fin, kayak, pêche, nage

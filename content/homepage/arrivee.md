@@ -6,7 +6,7 @@ header_menu: true
 
 ## Se préparer
 
-En été, outre vos effets personnels, apportez nécessaire de plage, gougounes et produit antimoustique. En hiver, il peut faire entre -30 et 5C, donc s'habiller en conséquence. Au printemps et automne, prenez un chandail et/ou coupe-vent. En toute saison, nous recommandons aussi d'apporter une serviette supplémentaire. En cas de doute, regardez la [ce que nous fournissons au chalet](https://abchalet.com/#equipemnent).
+En été, outre vos effets personnels, apportez nécessaire de plage, gougounes et produit antimoustique. En hiver, il peut faire entre -30 et 5C, donc s'habiller en conséquence. Au printemps et automne, prenez un chandail et/ou coupe-vent. En toute saison, nous recommandons aussi d'apporter une serviette supplémentaire. En cas de doute, regardez [ce que nous fournissons au chalet](https://abchalet.com/#equipemnent).
 
 <a class="weatherwidget-io" href="https://forecast7.com/fr/46d41n74d87/riviere-rouge/" data-label_1="RIVIÈRE-ROUGE" data-label_2="Prévision Météos" data-theme="weather_one" rel="nofollow">RIVIÈRE-ROUGE Prévision Météos</a>
 <script>
