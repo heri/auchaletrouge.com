@@ -8,10 +8,7 @@ header_menu: true
 
 En été, outre vos effets personnels, apportez nécessaire de plage, gougounes et produit antimoustique. En hiver, il peut faire entre -30 et 5C, donc s'habiller en conséquence. Au printemps et automne, prenez un chandail et/ou coupe-vent. En toute saison, nous recommandons aussi d'apporter une serviette supplémentaire. En cas de doute, regardez [ce que nous fournissons au chalet](https://abchalet.com/#equipemnent).
 
-<a class="weatherwidget-io" href="https://forecast7.com/fr/46d41n74d87/riviere-rouge/" data-label_1="RIVIÈRE-ROUGE" data-label_2="Météo" data-theme="orange" >RIVIÈRE-ROUGE Météo</a>
-<script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>
+<a class="weatherwidget-io" href="https://forecast7.com/fr/46d41n74d87/riviere-rouge/" data-label_1="RIVIÈRE-ROUGE" data-label_2="Météo" data-theme="orange" >RIVIÈRE-ROUGE Météo</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');</script>
 
 Le thé, sel sucre et épices ainsi que tous les équipements de cuisine sont fournis. N'oubliez pas les ingrédients!
 
