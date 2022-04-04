@@ -34,11 +34,7 @@ Si le chalet vous inspire, parlez du chalet sur [les médiaux sociaux](https://a
 
 ## Electricité & Appareils
 
-Le chauffage se fait:
-
-* avec la thermopome s'il fait plus de -25C
-* les plinthes
-* le Poêle au bois donne une chaleur agréable.
+La thermopompe dans le salon peut chauffer et aussi être utilisé comme Air Conditionné. S'il fait très froid, nous recommendons le Poêle au bois, qui donne une chaleur agréable.
 
 Veuillez fermer porte et fenêtres si vous utilisez le chauffage et/ou AC. Pensons à l'environnement!
 
