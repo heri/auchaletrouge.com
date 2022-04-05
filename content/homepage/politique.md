@@ -41,6 +41,10 @@ Voici les règles:
 * pas de nourriture ou boissons dans le spa. Si nous trouvons de la boisson ou des bouchons de bière/vin, $250 vous sera facturé pour remplacement de l'eau
 * pas de remboursements
 
+## Séjour Plein Nature
+
+Votre séjour sera en plein nature! Bien que nous mettons beaucoup d'efforts pour vous fournir un chalet moderne et comfortable, vous pouvez voir des insectes, des animaux sauvages comme des castors ou chevreuils, et des "indésirables" comme des fourmis ou des mulots, à l'extérieur ou à l'intérieur. Communiquez avec les membres de votre groupe que vous entrez dans leur environnement, et c'est à nous de s'adapter, et non l'inverse 😊
+
 ## Animaux domestiques
 
 Nous acceptons un animal domestique, petit chien ou chat par groupe. Voici les règles:
