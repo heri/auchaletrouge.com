@@ -122,7 +122,7 @@ Un kayak 1 place et un kayak 2 places se trouvent au chalet, avec rames et gilet
 
 ## Epicerie
 
-IGA Marché Raymond Rivière Rouge: épicerie moderne avec de la nourriture à emporter, livraison au chalet possible. 1395 Rue l'Annonnciation S
+IGA Marché Raymond Rivière Rouge: épicerie moderne avec de la nourriture à emporter, livraison au chalet possible. 1395 Rue l'Annonciation S
 
 Tigre Géant: nourriture ainsi que articles divers, à un prix accessible. 1620 Rue l'Annonciation S
 
