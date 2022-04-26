@@ -54,7 +54,7 @@ Note: Dû à des conditions hors de notre contrôle, comme vents violents, temp�
   {{< figure src="images/6nature.jpg" caption="faune laurentides, à l'extérieur du chalet" >}}
 {{< /gallery >}}
 
-* Sur place : baignade, accès à l’eau privé, canoë, kayak, volleyball de plage, badminton, spa, observation d’oiseaux,
+* Sur place : baignade, votre propre bord de l'eau, canoë, randonnées, kayak, sports de plage, spa, peche, observation de faune local,
 * Canoe kayak: [Descente de la rouge](https://goo.gl/maps/6SFppcyR4kQqNB2R9) ⭐️⭐️⭐️⭐️⭐️
 * [Spa Le geyser](https://www.quebecoriginal.com/en/listing/things-to-do/entertainment/spas/spa-le-geyser-373176494)    ⭐️⭐️⭐️⭐️⭐️
 * [Ferme animaux Alpaga](https://alpagahl.ca/)  ⭐️⭐️⭐️⭐️⭐️
