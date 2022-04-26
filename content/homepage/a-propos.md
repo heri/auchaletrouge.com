@@ -20,6 +20,8 @@ La nuit venue, la vue sur le ciel et les étoiles est magique. Le plafond cathé
 
 Soyez confortable à l'intérieur avec un bon livre ou un jeu de société pour les nuits plus fraîches. Le bois est omniprésent, des poutres apparentes au poêle à bois traditionnel, donnant une ambiance chaleureuse à l'ensemble de la propriété. Profitez de nuits paisibles et sereines avec les oreillers et lits moelleux. Plus tard, la cuisine bien équipée avec bar est un endroit confortable pour cuisiner et manger.
 
+{{< load-photoswipe >}}
+
 {{< gallery >}}
   {{< figure src="images/1-gallery.jpg" caption="escapade été">}}
   {{< figure src="images/3-gallery.jpg" caption="du bon temps près de la plage" >}}
