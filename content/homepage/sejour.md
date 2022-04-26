@@ -4,54 +4,6 @@ weight: 4
 header_menu: true
 ---
 
-## Guide Eté
-
-{{< gallery >}}
-  {{< figure src="images/1kayak.jpg" caption="escapade kayak">}}
-  {{< figure src="images/2velo.jpg" caption="velo vtt" >}}
-  {{< figure src="images/3flower.jpg" caption="été riviere rpuge" >}}
-  {{< figure src="images/4family.jpg" caption="randonnee famille" >}}
-  {{< figure src="images/5hike.jpg" caption="randonee en groupe" >}}
-  {{< figure src="images/6nature.jpg" caption="faune laurentides" >}}
-{{< /gallery >}}
-
-* Sur place : baignade, accès à l’eau privé, canoë, kayak, volleyball de plage, badminton, spa, observation d’oiseaux,
-* Canoe kayak: [Descente de la rouge](https://goo.gl/maps/6SFppcyR4kQqNB2R9) ⭐️⭐️⭐️⭐️⭐️
-* [Spa Le geyser](https://www.quebecoriginal.com/en/listing/things-to-do/entertainment/spas/spa-le-geyser-373176494)    ⭐️⭐️⭐️⭐️⭐️
-* [Ferme animaux Alpaga](https://alpagahl.ca/)  ⭐️⭐️⭐️⭐️⭐️
-* [Pourvoirie Club Rossignol](https://g.page/ClubRossignol?share) (equitation)  ⭐️⭐️⭐️⭐️⭐️
-* [Visite du Vignoble Spirit Lénoard]( https://www.quebecoriginal.com/en/listing/things-to-do/heritage-sites-and-attractions/industrial-tours/vignoble-spirit-leonard-396641966 ) ⭐️⭐️⭐️⭐️⭐️
-* [Randonnée déli-Champs](https://www.champignonssauvages.com/) (Cueillette de champignons sauvages en randonée) 
-* [Air Mont-Laurier](https://www.airmontlaurier.com/transport-aerien-hydravion-quebec/), Tour en hydravion   ⭐️⭐️⭐️⭐️⭐️
-* [Les serres en folie](https://goo.gl/maps/aLmnhdzCktpTR7Ff8) ⭐️⭐️⭐️⭐️⭐️
-* [Peche aventure](https://www.sepaq.com/rf/rom/ ), chasse à l’ours noir, chasse au petit gibier, chasse à l’orignal, chasse au cerf de virginie  ⭐️⭐️⭐️⭐️
-* [Cowboy paintall](https://www.cowboypaintball.ca/)  ⭐️⭐️⭐️⭐️
-* [Petit train du nrd ](https://goo.gl/maps/1NZmS48WV1yfrdf48)
-* [Golf Nominigue](https://goo.gl/maps/dpfRc7zvRRLFMoTP6)  ⭐️⭐️⭐️⭐️
-* [Plage municipal Michel Jr Levesqie]( https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/beaches/plage-michel-jr-levesque-7853362)
-* [Acces Parc du Mont-Tremblant](https://goo.gl/maps/bkfknvPYSsye563i6) via chemin du Lac Caché  ⭐️⭐️⭐️⭐️⭐️
-* [Réserve faunique Papineau Labelle](https://goo.gl/maps/cXkmAT8ssHiKvjih6) (+45mn , loin)  ⭐️⭐️⭐️⭐️
-* [Parc Régional Kamiaka](https://reservoirkiamika.org/): randonée, canoe, kayak, pontons  ⭐️⭐️⭐️⭐️
-
-## Guide Hiver
-
-{{< gallery >}}
-  {{< figure src="images/w1-snowmobile.jpg" caption="motoneige laurentides">}}
-  {{< figure src="images/w2-cross.jpg" caption="ski de fond" >}}
-  {{< figure src="images/w3-bike.jpg" caption="fat bike hiver laurentides" >}}
-{{< /gallery >}}
-
-* Traineau à chien, canoe camping: [Aventure quatre saisons](https://goo.gl/maps/ANHJDqDzy3Mr7PS27)  ⭐️⭐️⭐️⭐️⭐️
-* [Aventures Skidoo location](https://www.cana-dooaventures.com/)  ⭐️⭐️⭐️⭐️⭐️
-* [Expedition wolf](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/outdoor-and-adventure/expedition-wolf-10483573)   ⭐️⭐️⭐️⭐️⭐️
-* [Club de ski des six cantons](https://goo.gl/maps/8mPxwZ5siEuBU7sx5): raquette, cross-country ski  ⭐️⭐️⭐️⭐️⭐️
-* Motoneige, Tourisme d'aventure [Outdoor Logistik](https://www.outdoorlogistik.com) 
-* [Ski hors piste rouge manawain](https://goo.gl/maps/6TatHsVxBPuqnJx29)  ⭐️⭐️⭐️⭐️
-* [Pêche sur glace, Parc regional Kamiaka](https://goo.gl/maps/VHP2Jy3GTdNto4Gq6)  ⭐️⭐️⭐️⭐️
-* [Expedition Hautes Laurentides](https://goo.gl/maps/6Y2egLSmHN9zdzDR7),
-* [Ski de fond, traineau, raquettes ](https://reservoirkiamika.org/)
-* [Patinoire exterieures, Rivière Rouge](https://www.riviere-rouge.ca/patinoires-exterieures)
-
 ## Equipement
 
 Nous fournissons:
@@ -89,6 +41,59 @@ Veuillez fermer porte et fenêtres si vous utilisez le chauffage et/ou AC. Penso
 Les pastilles sont placés sous l'évier pour le lave-vaisselle. Mettez une pastille, ajustez la configuration selon votre préférence, fermez la porte et appuyez sur "Start". Vous devez entendre le cycle démarrer. Sinon cela veut dire que la machine est en mode attente. Recommencez!
 
 Note: Dû à des conditions hors de notre contrôle, comme vents violents, tempêtes ou autres, les coupures d'électricité peuvent arriver une à deux fois par année. Vous pouvez nous avertir. Ensuite, veuillez fermer portes et fenêtres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. 
+
+
+## Guide Eté
+
+{{< gallery >}}
+  {{< figure src="images/1kayak.jpg" caption="escapade kayak 🛶">}}
+  {{< figure src="images/2velo.jpg" caption="vélo vtt, parc laurentides" >}}
+  {{< figure src="images/3flower.jpg" caption="été riviere rouge" >}}
+  {{< figure src="images/4family.jpg" caption="randonnée en famille" >}}
+  {{< figure src="images/5hike.jpg" caption="randonée en groupe" >}}
+  {{< figure src="images/6nature.jpg" caption="faune laurentides, à l'extérieur du chalet" >}}
+{{< /gallery >}}
+
+* Sur place : baignade, accès à l’eau privé, canoë, kayak, volleyball de plage, badminton, spa, observation d’oiseaux,
+* Canoe kayak: [Descente de la rouge](https://goo.gl/maps/6SFppcyR4kQqNB2R9) ⭐️⭐️⭐️⭐️⭐️
+* [Spa Le geyser](https://www.quebecoriginal.com/en/listing/things-to-do/entertainment/spas/spa-le-geyser-373176494)    ⭐️⭐️⭐️⭐️⭐️
+* [Ferme animaux Alpaga](https://alpagahl.ca/)  ⭐️⭐️⭐️⭐️⭐️
+* [Pourvoirie Club Rossignol](https://g.page/ClubRossignol?share) (equitation)  ⭐️⭐️⭐️⭐️⭐️
+* [Visite du Vignoble Spirit Lénoard]( https://www.quebecoriginal.com/en/listing/things-to-do/heritage-sites-and-attractions/industrial-tours/vignoble-spirit-leonard-396641966 ) ⭐️⭐️⭐️⭐️⭐️
+* [Randonnée déli-Champs](https://www.champignonssauvages.com/) (Cueillette de champignons sauvages en randonée) 
+* [Air Mont-Laurier](https://www.airmontlaurier.com/transport-aerien-hydravion-quebec/), Tour en hydravion   ⭐️⭐️⭐️⭐️⭐️
+* [Les serres en folie](https://goo.gl/maps/aLmnhdzCktpTR7Ff8) ⭐️⭐️⭐️⭐️⭐️
+* [Peche aventure](https://www.sepaq.com/rf/rom/ ), chasse à l’ours noir, chasse au petit gibier, chasse à l’orignal, chasse au cerf de virginie  ⭐️⭐️⭐️⭐️
+* [Cowboy paintall](https://www.cowboypaintball.ca/)  ⭐️⭐️⭐️⭐️
+* [Petit train du nrd ](https://goo.gl/maps/1NZmS48WV1yfrdf48)
+* [Golf Nominigue](https://goo.gl/maps/dpfRc7zvRRLFMoTP6)  ⭐️⭐️⭐️⭐️
+* [Plage municipal Michel Jr Levesqie]( https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/beaches/plage-michel-jr-levesque-7853362)
+* [Acces Parc du Mont-Tremblant](https://goo.gl/maps/bkfknvPYSsye563i6) via chemin du Lac Caché  ⭐️⭐️⭐️⭐️⭐️
+* [Réserve faunique Papineau Labelle](https://goo.gl/maps/cXkmAT8ssHiKvjih6) (+45mn , loin)  ⭐️⭐️⭐️⭐️
+* [Parc Régional Kamiaka](https://reservoirkiamika.org/): randonée, canoe, kayak, pontons  ⭐️⭐️⭐️⭐️
+
+## Guide Hiver
+
+{{< gallery >}}
+  {{< figure src="images/w1-snowmobile.jpg" caption="motoneige laurentides">}}
+  {{< figure src="images/w2-cross.jpg" caption="ski de fond" >}}
+  {{< figure src="images/w3-bike.jpg" caption="fat bike hiver laurentides" >}}
+  {{< figure src="images/w4-dogsled.jpg" caption="traineau a chien laurentides">}}
+  {{< figure src="images/w5-fire.jpg" caption="marshamallows au coin du feu, été comme hiver 😋" >}}
+  {{< figure src="images/w6-hiking.jpg" caption="beaux chemins, randonnée l'hiver" >}}
+{{< /gallery >}}
+
+* Traineau à chien, canoe camping: [Aventure quatre saisons](https://goo.gl/maps/ANHJDqDzy3Mr7PS27)  ⭐️⭐️⭐️⭐️⭐️
+* [Aventures Skidoo location](https://www.cana-dooaventures.com/)  ⭐️⭐️⭐️⭐️⭐️
+* [Expedition wolf](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/outdoor-and-adventure/expedition-wolf-10483573)   ⭐️⭐️⭐️⭐️⭐️
+* [Club de ski des six cantons](https://goo.gl/maps/8mPxwZ5siEuBU7sx5): raquette, cross-country ski  ⭐️⭐️⭐️⭐️⭐️
+* Motoneige, Tourisme d'aventure [Outdoor Logistik](https://www.outdoorlogistik.com) 
+* [Ski hors piste rouge manawain](https://goo.gl/maps/6TatHsVxBPuqnJx29)  ⭐️⭐️⭐️⭐️
+* [Pêche sur glace, Parc regional Kamiaka](https://goo.gl/maps/VHP2Jy3GTdNto4Gq6)  ⭐️⭐️⭐️⭐️
+* [Expedition Hautes Laurentides](https://goo.gl/maps/6Y2egLSmHN9zdzDR7),
+* [Ski de fond, traineau, raquettes ](https://reservoirkiamika.org/)
+* [Patinoire exterieures, Rivière Rouge](https://www.riviere-rouge.ca/patinoires-exterieures)
+
 
 ## Eau
 
