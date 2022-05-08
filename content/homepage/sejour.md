@@ -43,6 +43,15 @@ Les pastilles sont placés sous l'évier pour le lave-vaisselle. Mettez une past
 Note: Dû à des conditions hors de notre contrôle, comme vents violents, tempêtes ou autres, les coupures d'électricité peuvent arriver une à deux fois par année. Vous pouvez nous avertir. Ensuite, veuillez fermer portes et fenêtres, ainsi que couvercle du spa, pour conserver la température. Vous pouvez utiliser le poêle pour vous réchauffer et le BBQ pour cuire les aliments. Des bougies sont disponibles dans le placard à l'entrée. 
 
 
+## Activités sur place
+
+Voici quelques activités possibles sur place, pour vous inspirer: baignade, kayak, spa, petites randonées, feu extérieur (marshmallows 😋), picnique
+
+Un kayak 1 place,  un kayak 2 places et un canoe sont fournis. Les articles de sport, ainsi que rames et gilets de sauvetage sont dans la petite cabane devant. Demandez-nous le code pour y accéder!
+
+* Prenez seulement les kayaks si vous êtes sûr pour le courant. Si vous n'êtes pas sûr, ayez quelqu'un du groupe qui peut vous aider au besoin  
+* Ne pas écraser la végétation et les jeunes arbres quand vous déplacez les kayaks
+
 ## Guide Eté
 
 {{< gallery >}}
@@ -53,8 +62,6 @@ Note: Dû à des conditions hors de notre contrôle, comme vents violents, temp�
   {{< figure src="images/5hike.jpg" caption="randonée en groupe" >}}
   {{< figure src="images/6nature.jpg" caption="faune laurentides, à l'extérieur du chalet" >}}
 {{< /gallery >}}
-
-* Sur place : baignade, votre propre bord de l'eau, canoë, randonnées, kayak, sports de plage, spa, peche, observation de faune local,
 * Canoe kayak: [Descente de la rouge](https://goo.gl/maps/6SFppcyR4kQqNB2R9) ⭐️⭐️⭐️⭐️⭐️
 * [Spa Le geyser](https://www.quebecoriginal.com/en/listing/things-to-do/entertainment/spas/spa-le-geyser-373176494)    ⭐️⭐️⭐️⭐️⭐️
 * [Ferme animaux Alpaga](https://alpagahl.ca/)  ⭐️⭐️⭐️⭐️⭐️
@@ -115,11 +122,9 @@ Il y a un sofa convertible de grande taille dans cette salle. Si vous désirez l
 
 ## BBQ
 
-* Les outils de BBQ sont sur le côté. Outils complémentaires disponibles dans la cuisine.
-* Vous êtes responsable de nettoyer le BBQ après utilisation, comme vous l'avez trouvé
+* Vérifiez que tous les boutons de réglage des brûleurs sont TOUS en position d'arrêt, même celui de droite. Les enfants jouent souvent avec les boutons, si un des boutons n'est pas en position d'arrêt, alors un bypass de sécurité va vous empêcher d'allumer le BBQ. Après la vérification, ouvrez l'arrivée du gas, en bas. Ouvrir bouton de réglage du bruleur maitre, celui tout à gauche. Enfoncez le bouton d'allumage, le déchlenchement de l'étincelle devrait être audible. Vérifiez qu'il y a des flammes, si oui, vous pouvez ouvrir les autres brûleurs. Sinon fermez tous les brûleurs, fermez l'arrivée du gas en bas, et attendre au moins 1mn pour désactiver le bypass de sécurité.
+* Vous êtes responsable de nettoyer le BBQ après utilisation, comme vous l'avez trouvé. Fermez le couvercle après utilisation
 * Si une bonbonne de gas est vide, veuillez nous avertir. Une autre est disponible sur le côté.
-* Fermez le couvercle après utilisation
-* Si vous avez des difficultés, veuillez nous contacter
 * Veuillez tenir hors de portée des enfants en tout temps. Ils peuvent se brûler et peuvent aussi jouer avec le feu !
 
 Bon appétit!
@@ -132,13 +137,6 @@ Règles:
 * Pas de nourriture ou boissons. Si nous trouvons de la bière, reste de nourriture ou autre, un supplément de $250 vous sera facturé pour remplacer l'eau.
 * Fermez immédiatement le couvercle après utilisation !
 * Evitez d'utiliser plus de 20mn par session, pour éviter l'hyperthermie
-
-## Kayak
-
-Un kayak 1 place et un kayak 2 places se trouvent au chalet, avec rames et gilets de sauvetage.
-
-* Prenez seulement les kayaks si vous êtes sûr de pouvoir revenir. Si vous n'êtes pas sûr, ayez quelqu'un du groupe qui peut vous aider au besoin  
-* Ne pas écraser la végétation et les jeunes arbres quand vous déplacez les kayaks
 
 
 ## Epicerie
