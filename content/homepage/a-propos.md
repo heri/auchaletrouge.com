@@ -10,7 +10,7 @@ Construit sur les rives de la Rivière Rouge, où les montagnes et les forêts d
 
 ![cabin interior](images/unwind.jpg)
 
-Le terrain privé de un acre est parfait pour les familles à la recherche d'une escapade de luxe, ou les groupes souhaitant se rapprocher de la nature. Au Bonheur Chalet offre une grande terrasse pour observer les étoiles, un spa pour se détendre, des feux extérieurs avec hamacs et chaises Adirondack pour partager des souvenirs avec les amis et la famille.
+Le terrain privé de un acre est parfait pour les familles à la recherche d'une escapade tout comfort, ou les groupes souhaitant se rapprocher de la nature. Au Bonheur Chalet offre une grande terrasse pour observer les étoiles, un spa pour se détendre, des feux extérieurs avec hamacs et chaises Adirondack pour partager des souvenirs avec les amis et la famille.
 
 ## L'espace
 

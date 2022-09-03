@@ -22,11 +22,9 @@ Notre personnel a reçu des consignes strictes de nouvelles méthodes de travail
 * rampes
 * désinfection de toute la literie.
 
-Nous aérons le chalet entre chaque location. L'air est échangé continuellement et un filtre du même calibre que dans les hôpitaux est mis en route pendant 5 heures, filtrant un volume d'air équivalent à 5 fois le volume du chalet.
+Nous aérons le chalet entre chaque location. L'air est échangé continuellement et un filtre du même calibre que dans les hôpitaux est mis en route pendant 2 heures, filtrant un volume d'air équivalent à 5 fois le volume du chalet.
 
-Un distributeur de gels désinfectants est à disposition à l’entrée. Des lingettes désinfectantes sont également fournies.
-
-Nous demandons aussi une garantie que chaque invité suit les exigences de la santé publique.
+Un distributeur de gels désinfectants est à disposition à l’entrée.
 
 ## Règles
 
@@ -35,7 +33,7 @@ Le chalet a des standards stricts, dans une communauté où vit des familles et 
 Voici les règles:
 
 * on ne fume pas à l'intérieur,
-* pas de fêtes ou événements,
+* pas de fêtes ou événements publics,
 * pas de feu extérieur lors des risques d'incendie ([Consulter la carte SOPFEU](https://sopfeu.qc.ca/cartes/))
 * pas de substances illégales, à l'intérieur ou extérieur,
 * pas de nourriture ou boissons dans le spa. Si nous trouvons de la boisson ou des bouchons de bière/vin, $250 vous sera facturé pour remplacement de l'eau

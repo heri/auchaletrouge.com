@@ -28,7 +28,7 @@ Network : abchalet
 
 Mot de passe: <span id="template-wificode">Faites une réservation pour voir le code WiFi</span>
 
-Note : le signal peut être interrompu en cas de grosses tempêtes.
+Note : le signal peut être interrompu en cas de tempêtes.
 
 Si le chalet vous inspire, parlez du chalet sur [les médiaux sociaux](https://abchalet.com/#offre)
 
