@@ -1,7 +1,7 @@
 # default config
-baseURL = "https://abchalet.com"
-languageCode = "en-us"
-title = "ABChalet - Chalet Bois rond au bord de la Rivière Rouge"
+baseURL = "https://auchaletrouge.com"
+languageCode = "en-ca"
+title = "Au Chalet Rouge - Chalet Bois rond au bord de la Rivière Rouge"
 theme = "hugo-scroll"
 summaryLength = "10"
 paginate = 6
@@ -58,19 +58,19 @@ preloader = false
 # search
 search = false
 # about author
-author = "Au Bonheur Chalet"
+author = "Au Chalet Rouge "
 author_image = "images/author.jpg"
 bio = "Built on the banks of Rivière Rouge, where mountains and majestic pine forests meet, the log cabin welcomes you year round in the tranquility and beauty of the great Canadian Outdoors."
 # Contact info
 mobile = "+514 804 8608"
-email = "bonheur@abchalet.com"
+email = "stay@auchaletrouge.com"
 address = "435 Ch des Dunes Riviere Rouge"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2020 ABChalet.com"
+copyright = "Copyright &copy; 2020 AuChaletRouge.com"
 
 # Instagram feed
 [params.instafeed]
