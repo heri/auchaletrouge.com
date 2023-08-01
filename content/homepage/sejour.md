@@ -62,22 +62,25 @@ Un kayak 1 place,  un kayak 2 places et un canoe sont fournis. Les articles de s
   {{< figure src="images/5hike.jpg" caption="randonée en groupe" >}}
   {{< figure src="images/6nature.jpg" caption="faune laurentides, à l'extérieur du chalet" >}}
 {{< /gallery >}}
-* Canoe kayak: [Descente de la rouge](https://goo.gl/maps/6SFppcyR4kQqNB2R9) ⭐️⭐️⭐️⭐️⭐️
-* [Spa Le geyser](https://www.quebecoriginal.com/en/listing/things-to-do/entertainment/spas/spa-le-geyser-373176494)    ⭐️⭐️⭐️⭐️⭐️
-* [Ferme animaux Alpaga](https://alpagahl.ca/)  ⭐️⭐️⭐️⭐️⭐️
-* [Pourvoirie Club Rossignol](https://g.page/ClubRossignol?share) (equitation)  ⭐️⭐️⭐️⭐️⭐️
-* [Visite du Vignoble Spirit Lénoard]( https://www.quebecoriginal.com/en/listing/things-to-do/heritage-sites-and-attractions/industrial-tours/vignoble-spirit-leonard-396641966 ) ⭐️⭐️⭐️⭐️⭐️
+* Descente de la Rivière Rouge en Canoe kayak, ou pneumatique. Canoe kayak disponible au chalet; aussi disponible [Descente de la rouge](https://goo.gl/maps/6SFppcyR4kQqNB2R9) 
+* [Réserve faunique Papineau Labelle](https://goo.gl/maps/cXkmAT8ssHiKvjih6) (plage magnifique au Lac Mont-Joie)  
+* Marché de la gare à Labelle le dimanche
+* Manger santé à la Boutique La Bohémienne
+* [Petit train du nord](https://goo.gl/maps/1NZmS48WV1yfrdf48), en vélo de la gare de Labelle jusqu'au pont de la Macaza, un des plus beaux ponts couverts de la région
+* [Parc Régional Kamiaka](https://reservoirkiamika.org/): randonée, canoe, kayak, pontons  
+* [Air Mont-Laurier](https://www.airmontlaurier.com/transport-aerien-hydravion-quebec/), Tour en hydravion   
+* [Spa Le geyser](https://www.quebecoriginal.com/en/listing/things-to-do/entertainment/spas/spa-le-geyser-373176494)    
+* [Ferme Fées sorcières](https://www.lesfeessorcieres.com/visite-des-jardins), visite des jardins
+* [Pourvoirie Club Rossignol](https://g.page/ClubRossignol?share) (equitation)  
+* [Visite du Vignoble Spirit Lénoard]( https://www.quebecoriginal.com/en/listing/things-to-do/heritage-sites-and-attractions/industrial-tours/vignoble-spirit-leonard-396641966 ) 
 * [Randonnée déli-Champs](https://www.champignonssauvages.com/) (Cueillette de champignons sauvages en randonée) 
-* [Air Mont-Laurier](https://www.airmontlaurier.com/transport-aerien-hydravion-quebec/), Tour en hydravion   ⭐️⭐️⭐️⭐️⭐️
-* [Les serres en folie](https://goo.gl/maps/aLmnhdzCktpTR7Ff8) ⭐️⭐️⭐️⭐️⭐️
-* [Peche aventure](https://www.sepaq.com/rf/rom/ ), chasse à l’ours noir, chasse au petit gibier, chasse à l’orignal, chasse au cerf de virginie  ⭐️⭐️⭐️⭐️
-* [Cowboy paintall](https://www.cowboypaintball.ca/)  ⭐️⭐️⭐️⭐️
-* [Petit train du nrd ](https://goo.gl/maps/1NZmS48WV1yfrdf48)
-* [Golf Nominigue](https://goo.gl/maps/dpfRc7zvRRLFMoTP6)  ⭐️⭐️⭐️⭐️
+* [Les serres en folie](https://goo.gl/maps/aLmnhdzCktpTR7Ff8) 
+* [Peche aventure](https://www.sepaq.com/rf/rom/ ), chasse à l’ours noir, chasse au petit gibier, chasse à l’orignal, chasse au cerf de virginie  
+* [Cowboy paintall](https://www.cowboypaintball.ca/)  
+* [Golf Nominigue](https://goo.gl/maps/dpfRc7zvRRLFMoTP6)  
 * [Plage municipal Michel Jr Levesqie]( https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/beaches/plage-michel-jr-levesque-7853362)
-* [Acces Parc du Mont-Tremblant](https://goo.gl/maps/bkfknvPYSsye563i6) via chemin du Lac Caché  ⭐️⭐️⭐️⭐️⭐️
-* [Réserve faunique Papineau Labelle](https://goo.gl/maps/cXkmAT8ssHiKvjih6) (+45mn , loin)  ⭐️⭐️⭐️⭐️
-* [Parc Régional Kamiaka](https://reservoirkiamika.org/): randonée, canoe, kayak, pontons  ⭐️⭐️⭐️⭐️
+* [Acces Parc du Mont-Tremblant](https://goo.gl/maps/bkfknvPYSsye563i6) via chemin du Lac Caché  
+* [Ferme animaux Alpaga](https://alpagahl.ca/)  ️
 
 ## Guide Hiver
 
@@ -90,13 +93,13 @@ Un kayak 1 place,  un kayak 2 places et un canoe sont fournis. Les articles de s
   {{< figure src="images/w6-hiking.jpg" caption="beaux chemins, randonnée l'hiver" >}}
 {{< /gallery >}}
 
-* Traineau à chien, canoe camping: [Aventure quatre saisons](https://goo.gl/maps/ANHJDqDzy3Mr7PS27)  ⭐️⭐️⭐️⭐️⭐️
-* [Aventures Skidoo location](https://www.cana-dooaventures.com/)  ⭐️⭐️⭐️⭐️⭐️
-* [Expedition wolf](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/outdoor-and-adventure/expedition-wolf-10483573)   ⭐️⭐️⭐️⭐️⭐️
-* [Club de ski des six cantons](https://goo.gl/maps/8mPxwZ5siEuBU7sx5): raquette, cross-country ski  ⭐️⭐️⭐️⭐️⭐️
+* Traineau à chien, canoe camping: [Aventure quatre saisons](https://goo.gl/maps/ANHJDqDzy3Mr7PS27)  
+* [Aventures Skidoo location](https://www.cana-dooaventures.com/)  
+* [Expedition wolf](https://www.quebecoriginal.com/en/listing/things-to-do/sports-and-nature/outdoor-and-adventure/expedition-wolf-10483573)   
+* [Club de ski des six cantons](https://goo.gl/maps/8mPxwZ5siEuBU7sx5): raquette, cross-country ski  
 * Motoneige, Tourisme d'aventure [Outdoor Logistik](https://www.outdoorlogistik.com) 
-* [Ski hors piste rouge manawain](https://goo.gl/maps/6TatHsVxBPuqnJx29)  ⭐️⭐️⭐️⭐️
-* [Pêche sur glace, Parc regional Kamiaka](https://goo.gl/maps/VHP2Jy3GTdNto4Gq6)  ⭐️⭐️⭐️⭐️
+* [Ski hors piste rouge manawain](https://goo.gl/maps/6TatHsVxBPuqnJx29)  
+* [Pêche sur glace, Parc regional Kamiaka](https://goo.gl/maps/VHP2Jy3GTdNto4Gq6)  
 * [Expedition Hautes Laurentides](https://goo.gl/maps/6Y2egLSmHN9zdzDR7),
 * [Ski de fond, traineau, raquettes ](https://reservoirkiamika.org/)
 * [Patinoire exterieures, Rivière Rouge](https://www.riviere-rouge.ca/patinoires-exterieures)
@@ -153,8 +156,6 @@ RONA: articles de rénovation, outillage, peche. 400 Rue l'Annoncation S
 
 Tim Hortons: boissons chaudes et nourriture rapide. 2139 Rue l'Annonciation S
 
-Les commerces peuvent avoir des heures d'ouverture limités dû à la pandémie.
-
 ## Pharmacie & Soins Médicaux
 
 Hopital: Centre de services Rivière Rouge
@@ -163,11 +164,11 @@ Ouvert 24/7 avec urgences
 
 Pharmacie Jean Coutu 
 722 Rue l'Annonciation N
-Ouvre à 9h00
+Ouvre à 9h00 - fermé le dimanche
 
 Familiprix Extra - Maxim Charland
 1389 Rue L'Annonciation S
-Ouvre à 9h00
+Ouvre à 9h00 - fermé le dimanche
 
 Dentiste: Desauziers Malgorzata Dr
 716 Rue l'Annonciation N

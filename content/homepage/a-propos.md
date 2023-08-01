@@ -6,6 +6,11 @@ header_menu: true
 
 Construit sur les rives de la Rivière Rouge, où les montagnes et les forêts de pins se rencontrent, ce chalet en bois rond vous accueille toute l'année dans la quiétude et la beauté des grands espaces Canadiens. Embarquez à bord d'un kayak et allez explorer. Profitez des longues plages de sable.
 
+
+## Une belle retraite
+
+Au chalet, on oublie le stress de la vie quotidienne. Ici, il n'y a pas de construction, pas de traffic, pas de rendez-vous, pollution, pas de ballets fous de livreurs Amazon. On se détend, on se resource en famille ou entre amis, on prend le temps de se reposer.
+
 ## La Nature
 
 ![cabin interior](images/unwind.jpg)
