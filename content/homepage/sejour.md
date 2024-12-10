@@ -30,7 +30,7 @@ Mot de passe: <span id="template-wificode">Faites une réservation pour voir le 
 
 Note : le signal peut être interrompu en cas de tempêtes.
 
-Si le chalet vous inspire, parlez du chalet sur [les médiaux sociaux](https://abchalet.com/#offre)
+Si le chalet vous inspire, parlez du chalet sur [les médiaux sociaux](https://abchalet.com/#medias-sociaux)
 
 ## Electricité & Appareils
 
