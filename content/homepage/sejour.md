@@ -45,7 +45,9 @@ Note: Dû à des conditions hors de notre contrôle, comme vents violents, temp�
 
 ## Activités sur place
 
-Voici quelques activités possibles sur place, pour vous inspirer: baignade, kayak, spa, petites randonées, feu extérieur (marshmallows 😋), picnique
+Il y a beaucoup d'activités possibles, dépendamment de vos envies et de votre groupe. Pour vous donner une idée, voici [une fin de semaine typique](https://studiozenkai.com/post/chalet-life/) en famille. Les enfants ont commencé à jouer avec la neige, on a fait ensuite le circuit d'hébertisme au Parc Le Renouveau Rosaire-Senécal. 700 mètres de modules de jeu pour enfants. Il faisait froid et on a fini par une bonne tartiflette le soir, avec musique, boissons et bonne humeur. On a profité du feu avec des marshamallows. Le lendemain, ce fut un BBQ à -15C et ensuite le spa. Mais au delà des activités, ce qui compte c'est être avec les gens qu'on aime bien, s'amuser en famille et amis, et apprécier les bonnes choses.
+
+Voici quelques autres activités possibles sur place, pour vous inspirer: baignade, kayak, spa, petites randonées, feu extérieur (marshmallows 😋), picnique
 
 Un kayak 1 place,  un kayak 2 places et un canoe sont fournis. Les articles de sport, ainsi que rames et gilets de sauvetage sont dans la petite cabane devant. Demandez-nous le code pour y accéder!
 

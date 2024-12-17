@@ -9,7 +9,7 @@ Construit sur les rives de la Rivière Rouge, où les montagnes et les forêts d
 
 ## Une belle retraite
 
-Au chalet, on oublie le stress de la vie quotidienne. Ici, il n'y a pas de construction, pas de traffic, pas de rendez-vous, pollution, pas de ballets fous de livreurs Amazon. On se détend, on se resource en famille ou entre amis, on prend le temps de se reposer.
+Au chalet, on oublie le stress de la vie quotidienne. Ici, il n'y a pas de construction, pas de traffic, pas de rendez-vous, pollution, pas de ballets fous de livreurs Amazon. On se détend, on [a du fun en famille ou entre amis](https://studiozenkai.com/post/chalet-life/), ou on prend le temps de se reposer. 
 
 ## La Nature
 
