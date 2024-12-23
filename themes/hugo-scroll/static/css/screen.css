@@ -1110,3 +1110,14 @@ a.fn-item.active {
       End of file. Media queries should be the last thing here. Do not add stuff
       below this point, or it will probably fuck everything up.
       ========================================================================== */
+
+/* Mailer formatting */
+
+#mlb2-21032739.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody {
+  padding: 0 !important;
+}
+
+#mlb2-21032739.ml-form-embedContainer p, #mlb2-21032739.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody .ml-form-embedContent p:last-child {
+  font-size: 2rem !important;
+  line-height: 1.6em !important;
+}

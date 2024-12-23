@@ -1,15 +1,8 @@
 <footer class="site-footer">
   <div class="inner">
-    {{ with .Site.Params.copyright }}
-      <section class="copyright">{{ . | markdownify }}</section>{{ end }}
+      <section class="copyright">Copyright &copy; 2020 AuChaletRouge.com</section>
 
 
-    <section>{{ echoParam .Site.Params "hidebyline" }}</section>
-    {{ if ne .Site.Params.hidedesignbyline true }}
-      <section>
-        Design inspired from
-        <a href="https://www.janraasch.com" title="Jan Raasch">Jan Raasch</a>
-      </section>{{ end }}
 
   </div>
 </footer>
