@@ -1,14 +1,10 @@
 ---
-title: "Medias Sociaux"
+title: "Communauté"
 weight: 8
 header_menu: true
 ---
 
-Rejoignez-nous sur WhatsApp pour discuter du chalet, de séjours et rejoindre une communauté:
-
-<a aria-label="Rejoignez-nous sur WhatsApp" href="https://chat.whatsapp.com/Lmos6Q1gDxNJPFisaMXybh"> <img alt="Rejoignez-nous sur WhatsApp" src="https://auchaletrouge.com/images/whatsappbutton.png" />
-<a />
-
+<div class="ml-embedded" data-form="gRQAMM"></div>
 
 Si vous êtes créateur de contenus avec une communauté active, nous sommes ouverts à une collaboration. Contactez-nous à heri@studiozenkai.com 
 
